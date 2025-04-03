@@ -49,7 +49,7 @@ These are some of the preliminary results
 
 ![Screenshot 2025-03-30 at 9 38 50 p m](https://github.com/user-attachments/assets/92306cca-5a52-4d38-a7e6-11234007f16c)
 
-## Gradient Booesting Classifier
+## Gradient Boosting Classifier
 ![Screenshot 2025-03-30 at 9 39 12 p m](https://github.com/user-attachments/assets/3eb9ae15-de36-40ec-a92e-0d3c1b2f493c)
 
 
