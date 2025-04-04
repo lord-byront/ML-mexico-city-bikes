@@ -1,6 +1,7 @@
 # MEXICO CITY ECOBIKES MACHINE LEARNING PROJECT
 
-![47579800_10156915230264591_7274777677108609024_n](https://github.com/user-attachments/assets/18c65915-c80d-476d-bf86-27fd1fdf8dad)
+
+![EcobiciLogo](https://github.com/user-attachments/assets/3bff4646-ce8d-4508-a367-71a824323822)
 
 
 ![ecobici_01-min](https://github.com/user-attachments/assets/8eb28503-ce71-4dba-a0c7-a591b8e18344)
