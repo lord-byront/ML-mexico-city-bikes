@@ -27,3 +27,15 @@ Goal: To integrate bicycles into the public transport system as a sustainable an
 >
 > Coverage: Active in 4 boroughs: Cuauhtémoc, Miguel Hidalgo, Benito Juárez, and Coyoacán
 
+
+# 1ST PART.- DATA VISUALIZATION WITH TABLEAU
+
+![Screenshot 2025-04-04 at 9 06 05 p m](https://github.com/user-attachments/assets/845915e0-6e02-462e-a43b-2910887b342c)
+
+
+We created some visualizations in Tableau to provide an initial analysis of which stations will be the largest in 2025, as well as to obtain some basic statistics.
+
+You can find more detailed views of these visualizations at the following link:
+
+https://public.tableau.com/app/profile/carlos.fernando.s.nchez.lozano/viz/Feb_2025_viz/Pick-UpsDashboard
+
