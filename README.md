@@ -39,3 +39,31 @@ You can find more detailed views of these visualizations at the following link:
 
 https://public.tableau.com/app/profile/carlos.fernando.s.nchez.lozano/viz/Feb_2025_viz/Pick-UpsDashboard
 
+# 2ND PART.- MACHINE LEARNING ALGORITHMS
+
+In this section, we will use four different machine learning techniques, taking into account the data we have available, to address various areas of opportunity:
+
+1. User Classification: Uses demographic data (gender and age) to predict user categories and usage patterns (for example, is a younger user more likely to use a bike at night?).
+   
+2. Route Analysis: We will attempt to create a profile of the most used routes and how they vary by time of day, which could help improve the station system.
+  
+3. Bicycle Demand Prediction: Analyzes pickup and drop-off patterns to predict which stations will require the most bikes at certain times of the day.
+
+4. User Segmentation: Groups users into different segments based on their usage behavior, which can help with marketing campaigns or service improvements.
+
+
+## 1. User Classification with Random Forest 
+
+For the model we used demographic data (gender and age) to predict user categories and usage patterns like is a younger user more likely to use a bike at night?)
+
+
+The model uses Spark in order to read the data.
+
+
+
+## 2. Route Analysis:
+
+In this model we used 
+
+
+
