@@ -66,4 +66,6 @@ The model uses Spark in order to read the data.
 In this model we used 
 
 
+## APPENDIX, CSV DATA JOINS 
+
 
