@@ -118,6 +118,24 @@ These are some of the preliminary results
 ![Screenshot 2025-03-30 at 9 39 12 p m](https://github.com/user-attachments/assets/3eb9ae15-de36-40ec-a92e-0d3c1b2f493c)
 
 
+# Time duration
+
+For this stage we used 6 different models in order to be able to compare results between them
+
+1. Linear Regression
+2. Ridge
+3. Lasso Regression
+4. Decision Tree Regressor
+5. Random Forest Regressor
+6. LGBM Regressor
+
+<img width="1103" alt="Screenshot 2025-04-05 at 11 16 50 p m" src="https://github.com/user-attachments/assets/09a6ab52-fad0-4ff9-a941-01937bd867a9" />
+
+
+<img width="1124" alt="Screenshot 2025-04-05 at 11 20 23 p m" src="https://github.com/user-attachments/assets/60f0714f-b771-4b0d-8358-4cc22afe7d67" />
+
+
+
 ## APPENDIX, CSV DATA JOINS 
 
 
