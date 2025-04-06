@@ -93,6 +93,11 @@ These are the TOP 10 most used predicted routes by the model :
 In this model the accuracy we got wasn't as good as on the 1st model.
 
 
+## 3. Bicycle Demand Prediction: Analyzes pickup and drop-off patterns to predict which stations will require the most bikes at certain times of the day.
+
+
+# CONCLUSSIONS
+
 Some of the results may be significant for these use cases:
 Identification of high-demand areas. Areas with high concentrations of usage can be identified for the location of new stations or the adjustment of the size of current ones.
 
