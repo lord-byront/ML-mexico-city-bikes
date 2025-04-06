@@ -69,36 +69,27 @@ For this model we obtained a 96% accuracy
 <img width="521" alt="Screenshot 2025-04-06 at 12 40 13 a m" src="https://github.com/user-attachments/assets/ac4cb774-d41b-4306-8efb-cb448bdb4787" />
 
 
-## 2. Route Analysis:
+## 2. Route Analysis with K Means Cluster model
 
-## 4. User Segmentation
+For this model we sed the Kmeans method 
 
+So following the same steps we first cleaned, normalized, and standardized prior to modeling
 
+As some of the steps we calculated the clusters in order to get to the predicted results
 
-# Route Analysis K Means Cluster model
+<img width="700" alt="Screenshot 2025-04-06 at 12 53 32 p m" src="https://github.com/user-attachments/assets/1d762375-580b-4145-9a77-118a9a451a7b" />
 
-The data we are using contains a year's worth of trips at Mexico City stations.
-The data contains 22 million rows representing trips made over a year.
-In this first part, we will use the K-means machine learning method to identify different clusters using the geographic coordinates of the stations and the time of the routes to identify patterns. In the first case, we will use the pickup stations to identify different clusters.
-
-In order to run this file you need to use the following csv that you download from this AWS Bucket:
-https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/archivo_ordenado.csv
+<img width="710" alt="Screenshot 2025-04-06 at 12 53 40 p m" src="https://github.com/user-attachments/assets/b5847063-14dd-49cc-8a78-d61acbe6a578" />
 
 
+These are the TOP 10 most used predicted routes by the model :
 
-This are some of our results:
 
-Pickup Stations:
+<img width="1193" alt="Screenshot 2025-04-06 at 12 39 48 p m" src="https://github.com/user-attachments/assets/a3f750da-20e7-4006-a4b2-60f61ade137a" />
 
-![Screenshot 2025-03-29 at 6 27 26 p m](https://github.com/user-attachments/assets/a46d6b4a-f95f-4c99-967b-b76c2f71ccf8)
 
-![Screenshot 2025-03-29 at 6 31 33 p m](https://github.com/user-attachments/assets/ce4091a0-7703-48a2-82cd-0283e92139e3)
 
-End Stations:
-
-![Screenshot 2025-03-30 at 4 24 28 p m](https://github.com/user-attachments/assets/89071681-3486-4dc1-be42-f57087ebe095)
-
-![Screenshot 2025-03-30 at 4 25 06 p m](https://github.com/user-attachments/assets/d33d1c18-e4b1-4e65-a49d-b41ab54d25e7)
+In this model the accuracy we got wasn't as good as on the 1st model.
 
 
 Some of the results may be significant for these use cases:
@@ -106,6 +97,7 @@ Identification of high-demand areas. Areas with high concentrations of usage can
 
 Bicycle redistribution. Understanding which stations tend to be used together or share usage patterns can help with transport logistics and bicycle redistribution.
 Targeted marketing: Understanding the demographics and patterns of users who use stations in a cluster can inform more effective marketing campaigns.
+
 
 
 # User Classification Linear Regression and Random Forest Models
@@ -119,6 +111,7 @@ These are some of the preliminary results
 ## Gradient Boosting Classifier
 ![Screenshot 2025-03-30 at 9 39 12 p m](https://github.com/user-attachments/assets/3eb9ae15-de36-40ec-a92e-0d3c1b2f493c)
 
+## 4. User Segmentation
 
 5. ## Time duration
 
