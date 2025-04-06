@@ -62,13 +62,16 @@ https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/2025_02.csv
 
 The model uses Spark in order to read the data.
 
-In this model 
+In this model first we cleaned, normalized, and standardized prior to modeling
+
+For this model we obtained a 96% accuracy
+
+<img width="521" alt="Screenshot 2025-04-06 at 12 40 13 a m" src="https://github.com/user-attachments/assets/ac4cb774-d41b-4306-8efb-cb448bdb4787" />
+
+
 ## 2. Route Analysis:
 
-In this model we used 
-
-
-# 4. User Segmentation
+## 4. User Segmentation
 
 
 
@@ -80,7 +83,6 @@ In this first part, we will use the K-means machine learning method to identify 
 
 In order to run this file you need to use the following csv that you download from this AWS Bucket:
 https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/archivo_ordenado.csv
-
 
 
 
@@ -118,7 +120,7 @@ These are some of the preliminary results
 ![Screenshot 2025-03-30 at 9 39 12 p m](https://github.com/user-attachments/assets/3eb9ae15-de36-40ec-a92e-0d3c1b2f493c)
 
 
-# Time duration
+5. ## Time duration
 
 For this stage we used 6 different models in order to be able to compare results between them
 
