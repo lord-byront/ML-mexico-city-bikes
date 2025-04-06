@@ -92,6 +92,8 @@ These are the TOP 10 most used predicted routes by the model :
 
 In this model the accuracy we got wasn't as good as on the 1st model.
 
+<img width="1064" alt="Screenshot 2025-04-06 at 12 35 57 p m" src="https://github.com/user-attachments/assets/0b07329c-5a1e-44e7-9a31-d0656df8a99d" />
+
 
 ## 3. Bicycle Demand Prediction: Analyzes pickup and drop-off patterns to predict which stations will require the most bikes at certain times of the day.
 
