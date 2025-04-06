@@ -79,7 +79,8 @@ As some of the steps we calculated the clusters in order to get to the predicted
 
 <img width="700" alt="Screenshot 2025-04-06 at 12 53 32 p m" src="https://github.com/user-attachments/assets/1d762375-580b-4145-9a77-118a9a451a7b" />
 
-<img width="710" alt="Screenshot 2025-04-06 at 12 53 40 p m" src="https://github.com/user-attachments/assets/b5847063-14dd-49cc-8a78-d61acbe6a578" />
+![Screenshot 2025-04-06 at 1 14 25 p m](https://github.com/user-attachments/assets/dad5b393-446a-4763-ac90-4f068cb5fefb)
+
 
 
 These are the TOP 10 most used predicted routes by the model :
