@@ -56,11 +56,13 @@ In this section, we will use four different machine learning techniques, taking 
 
 For the model we used demographic data (gender and age) to predict user categories and usage patterns like is a younger user more likely to use a bike at night?)
 
+You can find the code to run this model on the folder Codes and the name of the file is Spark_RForest_Gcollab
+In order to run this file you need to use the following csv that you download from this AWS Bucket:
+https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/2025_02.csv
 
 The model uses Spark in order to read the data.
 
-
-
+In this model 
 ## 2. Route Analysis:
 
 In this model we used 
@@ -75,6 +77,12 @@ In this model we used
 The data we are using contains a year's worth of trips at Mexico City stations.
 The data contains 22 million rows representing trips made over a year.
 In this first part, we will use the K-means machine learning method to identify different clusters using the geographic coordinates of the stations and the time of the routes to identify patterns. In the first case, we will use the pickup stations to identify different clusters.
+
+In order to run this file you need to use the following csv that you download from this AWS Bucket:
+https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/archivo_ordenado.csv
+
+
+
 
 This are some of our results:
 
