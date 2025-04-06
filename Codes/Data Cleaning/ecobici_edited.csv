@@ -1,0 +1,678 @@
+num_cicloe,nombre_estacion,calle_prin,calle_secu,colonia,alcaldia,latitud,longitud,sitio_de_e
+1,Río Sena_Río Balsas,Río Sena,Río Balsas,Cuauhtemoc,Cuauhtemoc,19.4335895,-99.1678193,Arroyo
+2,Río Guadalquivir_Río Nazas,Río Guadalquivir,Río Nazas,Cuauhtemoc,Cuauhtemoc,19.43062276,-99.17123066,Arroyo
+3,Reforma_Insurgentes,Reforma,Insurgentes,Tabacalera,Cuauhtemoc,19.43163,-99.158547,Banqueta
+4,Río Nilo_Río Panuco,Río Nilo,Río Panuco,Cuauhtemoc,Cuauhtemoc,19.428491,-99.171693,Arroyo
+5,Río Pánuco _Río Tiber,Río Pánuco ,Río Tiber,Cuauhtemoc,Cuauhtemoc,19.429804,-99.169451,Arroyo
+6,Río Pánuco_Río Sena,Río Pánuco,Río Sena,Cuauhtemoc,Cuauhtemoc,19.430963,-99.166986,Arroyo
+7,Río Elba_Río Lerma,Río Elba,Río Lerma,Cuauhtemoc,Cuauhtemoc,19.425355,-99.17515,Arroyo
+8,Reforma_General Prim,Reforma,General Prim,Tabacalera,Cuauhtemoc,19.431256,-99.158153,Banqueta
+9,Río Guadalquivir_Río Lerma,Río Guadalquivir,Río Lerma,Cuauhtemoc,Cuauhtemoc,19.428184,-99.170013,Arroyo
+10,Reforma_Ramírez,Reforma,Ramírez,Tabacalera,Cuauhtemoc,19.433431,-99.155142,Banqueta
+11,Río Amazonas_Río Lerma,Río Amazonas,Río Lerma,Cuauhtemoc,Cuauhtemoc,19.431192,-99.163546,Arroyo
+12,Río Lerma_Villalongín,Río Lerma,Villalongín,Cuauhtemoc,Cuauhtemoc,19.432223,-99.161686,Arroyo
+13,Reforma_Río Mississippi,Reforma,Río Mississippi,Cuauhtemoc,Cuauhtemoc,19.424941,-99.17233,Banqueta
+14,Reforma_Río De Plata,Reforma,Río De Plata,Cuauhtemoc,Cuauhtemoc,19.42454,-99.173247,Banqueta
+15,Reforma_Río Mississippi,Reforma,Río Mississippi,Cuauhtemoc,Cuauhtemoc,19.425597,-99.171409,Banqueta
+16,Reforma_Río Tiber,Reforma,Río Tiber,Cuauhtemoc,Cuauhtemoc,19.4267528,-99.16861944,Banqueta
+17,Reforma_Río Tiber,Reforma,Río Tiber,Cuauhtemoc,Cuauhtemoc,19.427553,-99.167396,Banqueta
+18,Reforma_Río Rhin,Reforma,Río Rhin,Cuauhtemoc,Cuauhtemoc,19.428802,-99.164381,Banqueta
+19,Reforma_Río Rhin,Reforma,Río Rhin,Cuauhtemoc,Cuauhtemoc,19.429453,-99.16283,Banqueta
+20,Reforma_Río Támesis,Reforma,Río Támesis,Cuauhtemoc,Cuauhtemoc,19.430907,-99.160148,Banqueta
+21,Reforma_Dublín,Reforma,Dublín,Juarez,Cuauhtemoc,19.424784,-99.172119,Banqueta
+22,Reforma_Manchester,Reforma,Manchester,Juarez,Cuauhtemoc,19.424784,-99.172119,Banqueta
+23,Reforma_Praga,Reforma,Praga,Juarez,Cuauhtemoc,19.42528,-99.171099,Banqueta
+24,Reforma_Varsovia,Reforma,Varsovia,Juarez,Cuauhtemoc,19.426614,-99.168078,Banqueta
+25,Reforma_Estocolmo,Reforma,Estocolmo,Juarez,Cuauhtemoc,19.427338,-99.16672,Banqueta
+26,Reforma_Versalles,Reforma,Versalles,Juarez,Cuauhtemoc,19.432595,-99.154995,Banqueta
+27,Reforma_Havre,Reforma,Havre,Juarez,Cuauhtemoc,19.42916,-99.162703,Banqueta
+28,Toledo_Tokio,Toledo,Tokio,Juarez,Cuauhtemoc,19.423664,-99.172568,Arroyo
+29,Reforma_Bucareli,Reforma,Bucareli,Centro,Cuauhtemoc,19.434944,-99.150295,Banqueta
+30,Hamburgo_Amberes,Hamburgo,Amberes,Juarez,Cuauhtemoc,19.426384,-99.164255,Arroyo
+31,Hamburgo_Insurgentes,Hamburgo,Insurgentes,Juarez,Cuauhtemoc,19.427937,-99.161245,Arroyo
+32,Londres_Sevilla,Londres,Sevilla,Juarez,Cuauhtemoc,19.4226672,-99.1699751,Arroyo
+33,Londres_Florencia,Londres,Florencia,Juarez,Cuauhtemoc,19.424187,-99.166497,Arroyo
+34,Liverpool_Génova,Liverpool,Génova,Juarez,Cuauhtemoc,19.424584,-99.163688,Arroyo
+35,Liverpool_Génova,Liverpool,Génova,Juarez,Cuauhtemoc,19.424558,-99.163518,Arroyo
+36,Puebla_Veracruz,Puebla,Veracruz,Roma Norte,Cuauhtemoc,19.41966,-99.17588,Arroyo
+37,Guadalajara_Puebla,Guadalajara,Puebla,Roma Norte,Cuauhtemoc,19.4204398,-99.1727208,Arroyo
+38,Cozumel_Puebla,Cozumel,Puebla,Roma Norte,Cuauhtemoc,19.4208433,-99.1713729,Arroyo
+39,Puebla_Medellín,Puebla,Medellín,Roma Norte,Cuauhtemoc,19.421762,-99.166931,Arroyo
+40,Oaxaca_Puebla,Oaxaca,Puebla,Roma Norte,Cuauhtemoc,19.422379,-99.164137,Banqueta
+41,Reforma_Av. De La República,Reforma,Av. De La República,Tabacalera,Cuauhtemoc,19.43542,-99.150317,Banqueta
+42,Sinaloa_Valladolid,Sinaloa,Valladolid,Roma Norte,Cuauhtemoc,19.420627,-99.16821,Arroyo
+43,Revillagigedo_Juárez,Revillagigedo,Juárez,Centro,Cuauhtemoc,19.4351365,-99.1460756,Banqueta
+44,Durango_Veracruz,Durango,Veracruz,Roma Norte,Cuauhtemoc,19.418141,-99.174709,Banqueta
+45,Durango_Sonora,Durango,Sonora,Roma Norte,Cuauhtemoc,19.418749,-99.171942,Banqueta
+46,Durango_Salamanca,Durango,Salamanca,Roma Norte,Cuauhtemoc,19.41919,-99.169764,Arroyo
+47,Plaza Madrid_Medellín,Plaza Madrid,Medellín,Roma Norte,Cuauhtemoc,19.41955,-99.166214,Arroyo
+48,Independencia_Azueta,Independencia,Azueta,Centro,Cuauhtemoc,19.433705,-99.146665,Banqueta
+49,Mazatlán_Juan De La Barrera,Mazatlán,Juan De La Barrera,Condesa,Cuauhtemoc,19.41689,-99.17562,Banqueta
+50,Cuernavaca_Veracruz,Cuernavaca,Veracruz,Condesa,Cuauhtemoc,19.416886,-99.173591,Arroyo
+51,Colima_Oaxaca,Colima,Oaxaca,Roma Norte,Cuauhtemoc,19.418031,-99.168435,Arroyo
+52,Hidalgo_Trujano,Hidalgo,Trujano,Centro,Cuauhtemoc,19.436208,-99.141931,Banqueta
+53,Fernando Montes De Oca_Tula,Fernando Montes De Oca,Tula,Condesa,Cuauhtemoc,19.4148233,-99.1783527,Arroyo
+54,Parque España_Sonora,Parque España,Sonora,Condesa,Cuauhtemoc,19.416163,-99.170795,Arroyo
+55,5 De Mayo_Bolívar,5 De Mayo,Bolívar,Centro,Cuauhtemoc,19.434514,-99.138068,Banqueta
+56,Alvaro Obregón_Medellin,Alvaro Obregón,Medellin,Roma Norte,Cuauhtemoc,19.417102,-99.165607,Banqueta
+57,Cuernavaca_Juan Escutia,Cuernavaca,Juan Escutia,Condesa,Cuauhtemoc,19.414968,-99.174766,Arroyo
+58,Parque España_Juan De La Barrera,Parque España,Juan De La Barrera,Condesa,Cuauhtemoc,19.415358,-99.171902,Banqueta
+59,Popocatépetl_Ámsterdam,Popocatépetl,Ámsterdam,Hipodromo,Cuauhtemoc,19.415237,-99.16659,Arroyo
+60,Mazatlán_Fernando Montes De Oca,Mazatlán,Fernando Montes De Oca,Condesa,Cuauhtemoc,19.414119,-99.177214,Banqueta
+61,Avenida México_Sonora,Avenida México,Sonora,Hipodromo,Cuauhtemoc,19.413789,-99.169427,Arroyo
+62,Fernando Montes De Oca_Amatlan,Fernando Montes De Oca,Amatlan,Condesa,Cuauhtemoc,19.413314,-99.175225,Arroyo
+63,Nuevo León_Laredo,Nuevo León,Laredo,Hipodromo,Cuauhtemoc,19.41299,-99.171675,Banqueta
+64,Sonora_Ámsterdam,Sonora,Ámsterdam,Hipodromo,Cuauhtemoc,19.412982,-99.166936,Arroyo
+65,Marconi_Tacuba,Marconi,Tacuba,Centro,Cuauhtemoc,19.436522,-99.139811,Arroyo
+66,Mazatlán_Francisco Márquez,Mazatlán,Francisco Márquez,Condesa,Cuauhtemoc,19.411825,-99.178456,Banqueta
+67,Vicente Suárez_Michoacán,Vicente Suárez,Michoacán,Condesa,Cuauhtemoc,19.411703,-99.175753,Arroyo
+68,Tamaulipas_Michoacán,Tamaulipas,Michoacán,Condesa,Cuauhtemoc,19.411771,-99.173783,Banqueta
+69,Michoacán_Ámsterdam,Michoacán,Ámsterdam,Hipodromo,Cuauhtemoc,19.410797,-99.168143,Arroyo
+70,Parque México_Michoacán,Parque México,Michoacán,Hipodromo,Cuauhtemoc,19.41128,-99.169825,Arroyo
+71,Amsterdam_Michoacan,Amsterdam,Michoacan,Hipodromo,Cuauhtemoc,19.411361,-99.171271,Arroyo
+72,Mazatlán_Alfonso Reyes,Mazatlán,Alfonso Reyes,Hipodromo Condesa,Cuauhtemoc,19.409859,-99.179565,Banqueta
+73,Campeche_Tamaulipas,Campeche,Tamaulipas,Hipodromo Condesa,Cuauhtemoc,19.410073,-99.175542,Arroyo
+74,Nuevo León_Ozulama,Nuevo León,Ozulama,Hipodromo,Cuauhtemoc,19.410468,-99.172802,Banqueta
+75,Alfonso Reyes_Atlixco,Alfonso Reyes,Atlixco,Hipodromo Condesa,Cuauhtemoc,19.408676,-99.176759,Banqueta
+76,Chilpancingo_Campeche,Chilpancingo,Campeche,Hipodromo,Cuauhtemoc,19.4086886,-99.169938,Arroyo
+77,Choapan_Tamaulipas,Choapan,Tamaulipas,Hipodromo,Cuauhtemoc,19.406745,-99.178272,Arroyo
+78,Benjamín Hill_Tamaulipas,Benjamín Hill,Tamaulipas,Hipodromo,Cuauhtemoc,19.407512,-99.177361,Arroyo
+79,Saltillo_Alfonso Reyes,Saltillo,Alfonso Reyes,Hipodromo,Cuauhtemoc,19.407479,-99.174403,Banqueta
+80,Nuevo León_Aguascalientes,Nuevo León,Aguascalientes,Hipodromo,Cuauhtemoc,19.407233,-99.172131,Banqueta
+81,Aguascalientes_Insurgentes,Aguascalientes,Insurgentes,Hipodromo,Cuauhtemoc,19.407927,-99.168734,Arroyo
+82,Independencia_Marroquí,Independencia,Marroquí,Centro,Cuauhtemoc,19.433344,-99.14404,Banqueta
+83,Alfonso Reyes_Nuevo León,Alfonso Reyes,Nuevo León,Hipodromo,Cuauhtemoc,19.40655,-99.172275,Arroyo
+84,Chilpancingo_Tlaxcala,Chilpancingo,Tlaxcala,Hipodromo,Cuauhtemoc,19.406872,-99.169572,Arroyo
+85,Rosas Moreno_Sullivan,Rosas Moreno,Sullivan,San Rafael,Cuauhtemoc,19.434081,-99.162434,Arroyo
+86,Sullivan_Insurgentes,Sullivan,Insurgentes,San Rafael,Cuauhtemoc,19.432452,-99.15924,Banqueta
+87,Gante_Venustiano Carranza,Gante,Venustiano Carranza,Centro,Cuauhtemoc,19.432024,-99.139705,Banqueta
+88,2A Cerrada De 5 De Mayo_Palma,2A Cerrada De 5 De Mayo,Palma,Centro,Cuauhtemoc,19.433757,-99.135331,Banqueta
+89,República De Guatemala_Monte De Piedad,República De Guatemala,Monte De Piedad,Centro,Cuauhtemoc,19.434962,-99.133729,Banqueta
+90,José María Pino Suárez_Corregidora,José María Pino Suárez,Corregidora,Centro,Cuauhtemoc,19.43144,-99.132513,Banqueta
+91,Republica De Cuba_Allende,Republica De Cuba,Allende,Centro,Cuauhtemoc,19.4374,-99.137571,Arroyo
+92,San Ildefonso_República De Argentina,San Ildefonso,República De Argentina,Centro,Cuauhtemoc,19.436531,-99.131497,Banqueta
+93,Palma Norte_República De Cuba,Palma Norte,República De Cuba,Centro,Cuauhtemoc,19.436741,-99.134811,Arroyo
+94,Lic. Verdad_Moneda,Lic. Verdad,Moneda,Centro,Cuauhtemoc,19.433766,-99.130918,Arroyo
+95,20 De Noviembre_Venustiano Carranza,20 De Noviembre,Venustiano Carranza,Centro,Cuauhtemoc,19.430722,-99.133698,Banqueta
+96,López_Ayuntamiento,López,Ayuntamiento,Centro,Cuauhtemoc,19.430625,-99.14248,Arroyo
+97,República De Salvador_Pino Suárez,República De Salvador,Pino Suárez,Centro,Cuauhtemoc,19.429189,-99.132759,Camell<F3>N
+98,Emilio Dondé_Av. Balderas,Emilio Dondé,Av. Balderas,Centro,Cuauhtemoc,19.430267,-99.14861,Arroyo
+99,Ernesto Pugibet_Luis Moya,Ernesto Pugibet,Luis Moya,Centro,Cuauhtemoc,19.429947,-99.14591,Arroyo
+100,20 De Noviembre_Mesones,20 De Noviembre,Mesones,Centro,Cuauhtemoc,19.428485,-99.1338,Banqueta
+102,Echeveste_Bolivar,Echeveste,Bolivar,Centro,Cuauhtemoc,19.428214,-99.139494,Banqueta
+103,Joaquín Velázquez De León_García Icazbalceta,Joaquín Velázquez De León,García Icazbalceta,San Rafael,Cuauhtemoc,19.441533,-99.165268,Arroyo
+104,San Jerónimo_Isabel La Católica,San Jerónimo,Isabel La Católica,Centro,Cuauhtemoc,19.427059,-99.137116,Banqueta
+105,San Jerónimo_5 De Febrero,San Jerónimo,5 De Febrero,Centro,Cuauhtemoc,19.426755,-99.135014,Arroyo
+106,San Jerónimo_José María Pino Suarez,San Jerónimo,José María Pino Suarez,Centro,Cuauhtemoc,19.42649,-99.133537,Banqueta
+107-108,Tolsa_Balderas,Tolsa,Balderas,Centro,Cuauhtemoc,19.427329,-99.149971,Arroyo
+109,Nezahualcóyotl_Isabel La Católica,Nezahualcóyotl,Isabel La Católica,Centro,Cuauhtemoc,19.425311,-99.137421,Arroyo
+110,Dr. Valenzuela_Dr. Río De La Loza,Dr. Valenzuela,Dr. Río De La Loza,Doctores,Cuauhtemoc,19.425126,-99.143391,Arroyo
+111,Guillermo Prieto_Joaquín Velázquez De León,Guillermo Prieto,Joaquín Velázquez De León,San Rafael,Cuauhtemoc,19.438197,-99.165918,Arroyo
+112,Av. Morelos_Abraham González,Av. Morelos,Abraham González,Juarez,Cuauhtemoc,19.432819,-99.151734,Banqueta
+113,General Prim_Versalles,General Prim,Versalles,Juarez,Cuauhtemoc,19.430369,-99.154419,Arroyo
+114,Lucerna_Abraham González,Lucerna,Abraham González,Juarez,Cuauhtemoc,19.428989,-99.153618,Arroyo
+115,Roma_Dinamarca,Roma,Dinamarca,Juarez,Cuauhtemoc,19.429947,-99.159698,Arroyo
+116,Londres_Roma,Londres,Roma,Juarez,Cuauhtemoc,19.428985,-99.15664,Arroyo
+117,Londres_Nápoles,Londres,Nápoles,Juarez,Cuauhtemoc,19.427132,-99.160369,Arroyo
+118,Liverpool_Dinamarca,Liverpool,Dinamarca,Juarez,Cuauhtemoc,19.427114,-99.158251,Arroyo
+119,Turín_Abraham González,Turín,Abraham González,Juarez,Cuauhtemoc,19.426785,-99.155535,Arroyo
+120,Marsella_Nápoles,Marsella,Nápoles,Juarez,Cuauhtemoc,19.425437,-99.159458,Arroyo
+121,Niza_Chapultepec,Niza,Chapultepec,Juarez,Cuauhtemoc,19.424137,-99.161317,Arroyo
+122,José María Vértiz_Av. Dr. Río De La Loza,José María Vértiz,Av. Dr. Río De La Loza,Doctores,Cuauhtemoc,19.425502,-99.146337,Arroyo
+123,Claudio Bernard_Dr. Lavista,Claudio Bernard,Dr. Lavista,Doctores,Cuauhtemoc,19.424161,-99.153117,Arroyo
+124,Claudio Bernard_Dr. Liceaga,Claudio Bernard,Dr. Liceaga,Doctores,Cuauhtemoc,19.422392,-99.150358,Arroyo
+125,Morelia_Circular De Morelia,Morelia,Circular De Morelia,Roma Norte,Cuauhtemoc,19.424197,-99.156127,Arroyo
+126,Jalapa_Puebla,Jalapa,Puebla,Roma Norte,Cuauhtemoc,19.422288,-99.162138,Arroyo
+127,Puebla_Merida,Puebla,Merida,Roma Norte,Cuauhtemoc,19.423318,-99.15833,Arroyo
+128,Orizaba_Río De Janeiro,Orizaba,Río De Janeiro,Roma Norte,Cuauhtemoc,19.422148,-99.160645,Arroyo
+129,Tonalá_Durango,Tonalá,Durango,Roma Norte,Cuauhtemoc,19.4206,-99.163312,Arroyo
+130,Mérida_Durango,Mérida,Durango,Roma Norte,Cuauhtemoc,19.421576,-99.158015,Arroyo
+131,Colima_Jalapa,Colima,Jalapa,Roma Norte,Cuauhtemoc,19.419579,-99.161314,Arroyo
+132,Colima_Frontera,Colima,Frontera,Roma Norte,Cuauhtemoc,19.420667,-99.15645,Arroyo
+133,Colima_Morelia,Colima,Morelia,Roma Norte,Cuauhtemoc,19.421138,-99.154725,Arroyo
+134,Álvaro Obregón_Orizaba,Álvaro Obregón,Orizaba,Roma Norte,Cuauhtemoc,19.418304,-99.15956,Camell<F3>N
+135,Álvaro Obregón_Morelia,Álvaro Obregón,Morelia,Roma Norte,Cuauhtemoc,19.419225,-99.155099,Camell<F3>N
+136,Álvaro Obregón_Tonalá,Álvaro Obregón,Tonalá,Roma Norte,Cuauhtemoc,19.417715,-99.162729,Camell<F3>N
+137,Álvaro Obregón_Mérida,Álvaro Obregón,Mérida,Roma Norte,Cuauhtemoc,19.418774,-99.157081,Camell<F3>N
+138,Guanajuato_Frontera,Guanajuato,Frontera,Roma Norte,Cuauhtemoc,19.417702,-99.155313,Arroyo
+139,Tonalá_Guanajuato,Tonalá,Guanajuato,Roma Norte,Cuauhtemoc,19.416128,-99.162097,Arroyo
+140,Mérida_Zacatecas,Mérida,Zacatecas,Roma Norte,Cuauhtemoc,19.416596,-99.156879,Arroyo
+141,Zacatecas_Luis Cabrera,Zacatecas,Luis Cabrera,Roma Norte,Cuauhtemoc,19.415905,-99.15954,Arroyo
+142,San Luis Potosí_Eje 2 Pte. Monterrey,San Luis Potosí,Eje 2 Pte. Monterrey,Roma Norte,Cuauhtemoc,19.413232,-99.164121,Arroyo
+143,Córdoba_San Luis Potosí,Córdoba,San Luis Potosí,Roma Norte,Cuauhtemoc,19.414303,-99.157542,Arroyo
+144,Frontera_San Luis Potosí,Frontera,San Luis Potosí,Roma Norte,Cuauhtemoc,19.415192,-99.154837,Arroyo
+145,Yucatán_Chiapas,Yucatán,Chiapas,Roma Norte,Cuauhtemoc,19.41286,-99.160661,Arroyo
+146,Coahuila_Manzanillo,Coahuila,Manzanillo,Roma Norte,Cuauhtemoc,19.410737,-99.165716,Arroyo
+147,Coahuila_Orizaba,Coahuila,Orizaba,Roma Norte,Cuauhtemoc,19.412182,-99.158443,Arroyo
+148,Coahuila_Av. Cuauhtémoc,Coahuila,Av. Cuauhtémoc,Roma Norte,Cuauhtemoc,19.412829,-99.155116,Arroyo
+149,Mérida_Antonio M. Anza,Mérida,Antonio M. Anza,Roma Sur,Cuauhtemoc,19.41199,-99.155699,Arroyo
+150,Campeche_Medellín,Campeche,Medellín,Roma Sur,Cuauhtemoc,19.409894,-99.164288,Arroyo
+151,Campeche_Tonalá,Campeche,Tonalá,Roma Sur,Cuauhtemoc,19.410529,-99.160873,Arroyo
+152,Tlacotalpan_Campeche,Tlacotalpan,Campeche,Roma Sur,Cuauhtemoc,19.409098,-99.167181,Arroyo
+153,Manzanillo_Tlaxcala,Manzanillo,Tlaxcala,Roma Sur,Cuauhtemoc,19.407468,-99.165141,Arroyo
+154,Tuxpan_Tlaxcala,Tuxpan,Tlaxcala,Roma Sur,Cuauhtemoc,19.406683,-99.167962,Arroyo
+155,Jalapa_Tlaxcala,Jalapa,Tlaxcala,Roma Sur,Cuauhtemoc,19.408218,-99.159911,Arroyo
+156,Tepic_Ario,Tepic,Ario,Roma Sur,Cuauhtemoc,19.406959,-99.163021,Arroyo
+157,Tepic_Tlacotalpan,Tepic,Tlacotalpan,Roma Sur,Cuauhtemoc,19.406236,-99.166616,Arroyo
+158-159,Huatabampo_Eje 1 Pte. Av. Cuauhtémoc,Huatabampo,Eje 1 Pte. Av. Cuauhtémoc,Roma Sur,Cuauhtemoc,19.407507,-99.155541,Arroyo
+160,Alfonso Herrera_Gabino Barreda,Alfonso Herrera,Gabino Barreda,San Rafael,Cuauhtemoc,19.440252,-99.163455,Arroyo
+161,Quintana Roo_Manzanillo,Quintana Roo,Manzanillo,Roma Sur,Cuauhtemoc,19.405533,-99.164913,Arroyo
+162,Tehuantepec_Medellín,Tehuantepec,Medellín,Roma Sur,Cuauhtemoc,19.404907,-99.162485,Arroyo
+163,Toluca_Bajío,Toluca,Bajío,Roma Sur,Cuauhtemoc,19.405246,-99.15643,Arroyo
+164,Bajío_Tlacotalpan,Bajío,Tlacotalpan,Roma Sur,Cuauhtemoc,19.403204,-99.16596,Arroyo
+165,Bajío_Eje 2 Pte. Monterrey,Bajío,Eje 2 Pte. Monterrey,Roma Sur,Cuauhtemoc,19.404268,-99.160503,Arroyo
+166,Progreso_Cda. Antonio Maceo,Progreso,Cda. Antonio Maceo,Escandon,Miguel Hidalgo,19.406069,-99.183549,Arroyo
+167,General Salvador Alvarado_Progreso,General Salvador Alvarado,Progreso,Escandon,Miguel Hidalgo,19.404651,-99.179375,Arroyo
+168,Comercio_Progreso,Comercio,Progreso,Escandon,Miguel Hidalgo,19.403997,-99.1776,Arroyo
+169,Prosperidad_Progreso,Prosperidad,Progreso,Escandon,Miguel Hidalgo,19.403019,-99.174934,Arroyo
+170,Observatorio Oriente_Revolución,Observatorio Oriente,Revolución,Escandon,Miguel Hidalgo,19.404029,-99.184342,Arroyo
+171,Comercio_Jose Martí,Comercio,Jose Martí,Escandon,Miguel Hidalgo,19.4025195,-99.1781595,Arroyo
+172,General Francisco Murguía_José Martí,General Francisco Murguía,José Martí,Escandon,Miguel Hidalgo,19.4034757,-99.1817166,Arroyo
+173,Minería_José Martí,Minería,José Martí,Escandon,Miguel Hidalgo,19.401682,-99.176398,Arroyo
+174,Joaquín Garcia Icazbalceta_Ignacio Manuel Altamirano,Joaquín Garcia Icazbalceta,Ignacio Manuel Altamirano,San Rafael,Cuauhtemoc,19.441114,-99.161636,Arroyo
+175,Mutualismo_José Martí,Mutualismo,José Martí,Escandon,Miguel Hidalgo,19.400767,-99.172533,Arroyo
+176,Av. Jesús García_Luis Donaldo Colosio,Av. Jesús García,Luis Donaldo Colosio,Buenavista,Cuauhtemoc,19.442717,-99.152262,Arroyo
+177,Benjamín Hill_Carlos Zetina,Benjamín Hill,Carlos Zetina,Hipodromo Condesa,Cuauhtemoc,19.408841,-99.181692,Arroyo
+178,Tamaulipas_Francisco Murguía,Tamaulipas,Francisco Murguía,Hipodromo Condesa,Cuauhtemoc,19.406833,-99.180457,Arroyo
+179,Nuevo León_Quintana Roo,Nuevo León,Quintana Roo,Hipodromo,Cuauhtemoc,19.404452,-99.171438,Camell<F3>N
+180,Quintana Roo_Villahermosa,Quintana Roo,Villahermosa,Hipodromo,Cuauhtemoc,19.404554,-99.169953,Arroyo
+181,Benjamín Franklin_Ometusco,Benjamín Franklin,Ometusco,Hipodromo,Cuauhtemoc,19.404733,-99.174461,Arroyo
+182,Progreso_Astrónomos,Progreso,Astrónomos,Escandon,Miguel Hidalgo,19.40198,-99.17132,Arroyo
+183,Gabino Barreda_Guillermo Prieto,Gabino Barreda,Guillermo Prieto,San Rafael,Cuauhtemoc,19.437665,-99.164018,Arroyo
+184,General Gómez Pedraza_Gobernador Tiburcio Montiel,General Gómez Pedraza,Gobernador Tiburcio Montiel,San Miguel Chapultepec,Miguel Hidalgo,19.414793,-99.185083,Arroyo
+185,General Antonio Léon_General Pedro Antonio De Los Santos,General Antonio Léon,General Pedro Antonio De Los Santos,San Miguel Chapultepec,Miguel Hidalgo,19.412776,-99.182805,Arroyo
+186,Gob. Gregorio V. Gelati_Gral. Francisco Molinos Del Campo,Gob. Gregorio V. Gelati,Gral. Francisco Molinos Del Campo,San Miguel Chapultepec,Miguel Hidalgo,19.412455,-99.188489,Arroyo
+187,General Cano_Gobernador Gregorio V. Gelati,General Cano,Gobernador Gregorio V. Gelati,San Miguel Chapultepec,Miguel Hidalgo,19.411227,-99.185514,Arroyo
+188,Gobernador Melchor Múzquiz_Gobernador Ignacio Esteva,Gobernador Melchor Múzquiz,Gobernador Ignacio Esteva,San Miguel Chapultepec,Miguel Hidalgo,19.411711,-99.190139,Arroyo
+189,Gobernador Rafael Rebollar_Gobernador José Ceballos,Gobernador Rafael Rebollar,Gobernador José Ceballos,San Miguel Chapultepec,Miguel Hidalgo,19.410036,-99.187978,Arroyo
+190,Gobernador Ignacio Esteva_Maestro José Vasconcelos,Gobernador Ignacio Esteva,Maestro José Vasconcelos,San Miguel Chapultepec,Miguel Hidalgo,19.409577,-99.183818,Arroyo
+191,Gobernador Rafael Rebollar_Gobernador Vicente Eguía,Gobernador Rafael Rebollar,Gobernador Vicente Eguía,San Miguel Chapultepec,Miguel Hidalgo,19.40796,-99.187901,Arroyo
+192-193,Rubén Darío_Reforma,Rubén Darío,Reforma,Bosque De Chapultepec,Miguel Hidalgo,19.42592,-99.190755,Camell<F3>N
+194,Circuito Mahatma Gandhi_Reforma,Circuito Mahatma Gandhi,Reforma,Bosque De Chapultepec,Miguel Hidalgo,19.424282,-99.180334,Banqueta
+195,Reforma_Circuito Mahatma Gandhi,Reforma,Circuito Mahatma Gandhi,Bosque De Chapultepec,Miguel Hidalgo,19.424858,-99.185181,Camell<F3>N
+196,Lago Tanganica_Av. Ejército Nacional,Lago Tanganica,Av. Ejército Nacional,Granada,Miguel Hidalgo,19.438349,-99.192904,Arroyo
+197,Presa Falcón_Miguel De Cervantes Saavedra,Presa Falcón,Miguel De Cervantes Saavedra,Ampliacion Granada,Miguel Hidalgo,19.440501,-99.205086,Arroyo
+198,Sócrates_Ejército Nacional,Sócrates,Ejército Nacional,Polanco,Miguel Hidalgo,19.438168,-99.203888,Arroyo
+199,Anatole France_Av. Ejército Nacional,Anatole France,Av. Ejército Nacional,Polanco,Miguel Hidalgo,19.437934,-99.197241,Arroyo
+200,Emerson_Av. Ejército Nacional,Emerson,Av. Ejército Nacional,Polanco,Miguel Hidalgo,19.437596,-99.188785,Arroyo
+201,Lope De Vega_Av. Ejército Nacional,Lope De Vega,Av. Ejército Nacional,Polanco,Miguel Hidalgo,19.437431,-99.187215,Arroyo
+202,Calderón De La Barca_Av. Homero,Calderón De La Barca,Av. Homero,Polanco,Miguel Hidalgo,19.436064,-99.198898,Arroyo
+203,Tennyson_Av. Homero,Tennyson,Av. Homero,Polanco,Miguel Hidalgo,19.435985,-99.194832,Arroyo
+204,Temístocles_Homero,Temístocles,Homero,Polanco,Miguel Hidalgo,19.435882,-99.19152,Arroyo
+205,Taine_Homero,Taine,Homero,Polanco,Miguel Hidalgo,19.435525,-99.184713,Arroyo
+206,Homero_Moliere,Homero,Moliere,Polanco,Miguel Hidalgo,19.436142,-99.200996,Arroyo
+207,Torquato Tasso_Homero,Torquato Tasso,Homero,Polanco,Miguel Hidalgo,19.434861,-99.183322,Arroyo
+208,Hesiodo_Lamartine,Hesiodo,Lamartine,Polanco,Miguel Hidalgo,19.434182,-99.189835,Arroyo
+209,Solón_Horacio,Solón,Horacio,Polanco,Miguel Hidalgo,19.435478,-99.206359,Arroyo
+210,Eugenio Sue_Horacio,Eugenio Sue,Horacio,Polanco,Miguel Hidalgo,19.434076,-99.194091,Arroyo
+211,Isaac Newton_Horacio,Isaac Newton,Horacio,Polanco,Miguel Hidalgo,19.433607,-99.188528,Arroyo
+212,Hegel_Horacio,Hegel,Horacio,Polanco,Miguel Hidalgo,19.433567,-99.188096,Arroyo
+213,Solón_Cicerón,Solón,Cicerón,Polanco,Miguel Hidalgo,19.434361,-99.206342,Arroyo
+214,Platón_Horacio,Platón,Horacio,Polanco,Miguel Hidalgo,19.434353,-99.20322,Arroyo
+215,Edgar Alan Poe_Horacio,Edgar Alan Poe,Horacio,Polanco,Miguel Hidalgo,19.43384,-99.19968,Arroyo
+216,Alejandro Dumas_Horacio,Alejandro Dumas,Horacio,Polanco,Miguel Hidalgo,19.433419,-99.195746,Arroyo
+217,Euler_Horacio,Euler,Horacio,Polanco,Miguel Hidalgo,19.432888,-99.183605,Arroyo
+218,Hegel_Ibarbourou,Hegel,Ibarbourou,Polanco,Miguel Hidalgo,19.432451,-99.188033,Arroyo
+219,Esopo_Fc De Cuernavaca,Esopo,Fc De Cuernavaca,Polanco,Miguel Hidalgo,19.433542,-99.207808,Arroyo
+220,Plinio_Presidente Masaryk,Plinio,Presidente Masaryk,Polanco,Miguel Hidalgo,19.432655,-99.205727,Arroyo
+221,Emilio Castelar_Presidente Masaryk,Emilio Castelar,Presidente Masaryk,Polanco,Miguel Hidalgo,19.431799,-99.201565,Arroyo
+222,Alejandro Dumas_Presidente Masarik,Alejandro Dumas,Presidente Masarik,Polanco,Miguel Hidalgo,19.431417,-99.195774,Arroyo
+223,Isaac Newton_Presidente Masaryk,Isaac Newton,Presidente Masaryk,Polanco,Miguel Hidalgo,19.431242,-99.191613,Arroyo
+224,Hegel_Presidente Masaryk,Hegel,Presidente Masaryk,Polanco,Miguel Hidalgo,19.431255,-99.188065,Arroyo
+225,Petrarca_Presidente Masaryk,Petrarca,Presidente Masaryk,Polanco,Miguel Hidalgo,19.431172,-99.185612,Arroyo
+226,Wallon_Presidente Masaryk,Wallon,Presidente Masaryk,Polanco,Miguel Hidalgo,19.431033,-99.18222,Arroyo
+227,Campos Elíseos_Periférico,Campos Elíseos,Periférico,Polanco,Miguel Hidalgo,19.431791,-99.207373,Arroyo
+228,Campos Elíseos_La Fontaine,Campos Elíseos,La Fontaine,Polanco,Miguel Hidalgo,19.427705,-99.19912,Arroyo
+229,Carlos Dickens_Séneca,Carlos Dickens,Séneca,Polanco,Miguel Hidalgo,19.430515,-99.203331,Banqueta
+230,Edgar Allan Poe_Carlos Dickens,Edgar Allan Poe,Carlos Dickens,Polanco,Miguel Hidalgo,19.430098,-99.200074,Banqueta
+231,Isaac Newton_Aristóteles,Isaac Newton,Aristóteles,Polanco,Miguel Hidalgo,19.42977,-99.19349,Arroyo
+232,Taine_Rubén Darío,Taine,Rubén Darío,Polanco,Miguel Hidalgo,19.42894,-99.185389,Arroyo
+233,Julio Verne_Luis G. Urbina,Julio Verne,Luis G. Urbina,Polanco,Miguel Hidalgo,19.429314,-99.196965,Arroyo
+234,Tres Picos_Arquímides,Tres Picos,Arquímides,Polanco,Miguel Hidalgo,19.42783,-99.191539,Arroyo
+235-236,Campos Elíseos_Moliere,Campos Elíseos,Moliere,Polanco,Miguel Hidalgo,19.429332,-99.202181,Arroyo
+237-238,Andrés Bello_George Eliot,Andrés Bello,George Eliot,Polanco,Miguel Hidalgo,19.426744,-99.193986,Arroyo
+239,Rincón Del Bosque_Ruben Darío,Rincón Del Bosque,Ruben Darío,Polanco,Miguel Hidalgo,19.430153,-99.181355,Arroyo
+240,Ejército Nacional_F.C. De Cuernavaca,Ejército Nacional,F.C. De Cuernavaca,Polanco,Miguel Hidalgo,19.438551,-99.206298,Camell<F3>N
+241,Ejército Nacional_Juan Vázquez De La Mella,Ejército Nacional,Juan Vázquez De La Mella,Polanco,Miguel Hidalgo,19.438616,-99.207577,Camell<F3>N
+242,Pról. Moliere_Miguel De Cervantes Saavedra,Pról. Moliere,Miguel De Cervantes Saavedra,Polanco,Miguel Hidalgo,19.440195,-99.200715,Arroyo
+243,Lago Filt_Miguel De Cervantes Saavedra,Lago Filt,Miguel De Cervantes Saavedra,Granada,Miguel Hidalgo,19.441123,-99.195857,Arroyo
+244,Lago Victoria_Miguel De Cervantes Saavedra,Lago Victoria,Miguel De Cervantes Saavedra,Granada,Miguel Hidalgo,19.440508,-99.193681,Arroyo
+245,Lago Onega_Av. Ejército Nacional,Lago Onega,Av. Ejército Nacional,Granada,Miguel Hidalgo,19.438347,-99.190503,Arroyo
+246,Leibnitz_Thiers,Leibnitz,Thiers,Anzures,Miguel Hidalgo,19.434147,-99.179835,Arroyo
+247,Herschel_Rousseau,Herschel,Rousseau,Anzures,Miguel Hidalgo,19.432276,-99.18064,Arroyo
+248,Shakespeare_Lafayette,Shakespeare,Lafayette,Anzures,Miguel Hidalgo,19.43175,-99.177399,Arroyo
+249,Shakespeare_Darwin,Shakespeare,Darwin,Anzures,Miguel Hidalgo,19.429877,-99.177569,Arroyo
+250,Darwin_Mariano Escobedo,Darwin,Mariano Escobedo,Anzures,Miguel Hidalgo,19.428949,-99.179796,Banqueta
+251,Goethe_Darwin,Goethe,Darwin,Anzures,Miguel Hidalgo,19.429261,-99.17538,Arroyo
+252,Víctor Hugo_Shakespeare,Víctor Hugo,Shakespeare,Anzures,Miguel Hidalgo,19.427575,-99.17702,Arroyo
+253,Dante_Tolstoi,Dante,Tolstoi,Anzures,Miguel Hidalgo,19.4264486,-99.1781433,Arroyo
+254,Alfonso Herrera_Miguel Shultz,Alfonso Herrera,Miguel Shultz,San Rafael,Cuauhtemoc,19.439347,-99.160074,Arroyo
+255,José Rosas Moreno_Guillermo Prieto,José Rosas Moreno,Guillermo Prieto,San Rafael,Cuauhtemoc,19.437118,-99.161862,Arroyo
+256,Gómez Farías_Sadi Carnot,Gómez Farías,Sadi Carnot,San Rafael,Cuauhtemoc,19.437167,-99.158313,Arroyo
+257,Manuel Maria Contreras_Villalongin,Manuel Maria Contreras,Villalongin,San Rafael,Cuauhtemoc,19.433803,-99.166223,Arroyo
+258,Circuito Interior_Juan Escutia,Circuito Interior,Juan Escutia,Condesa,Cuauhtemoc,19.4165298,-99.1790435,Banqueta
+259,Tómas Alva Edison_Ponciano Arriaga,Tómas Alva Edison,Ponciano Arriaga,Tabacalera,Cuauhtemoc,19.437569,-99.15468,Arroyo
+260,Av. Juárez_Balderas,Av. Juárez,Balderas,Centro,Cuauhtemoc,19.4352787,-99.1477913,Banqueta
+261,Paseo De La Reforma_Río De La Plata,Paseo De La Reforma,Río De La Plata,Cuauhtemoc,Cuauhtemoc,19.42491,-99.172455,Camell<F3>N
+262,República De Cuba_República De Brasil,República De Cuba,República De Brasil,Centro,Cuauhtemoc,19.436931,-99.133952,Arroyo
+263,Sadi Carnot_Gómez Farias,Sadi Carnot,Gómez Farias,San Rafael,Cuauhtemoc,19.436274,-99.158425,Arroyo
+264-275,Héroes Ferrocarrileros_Jesús Garcia,Héroes Ferrocarrileros,Jesús Garcia,Buenavista,Cuauhtemoc,19.440985,-99.152935,Arroyo
+265,Mina_Jesús García,Mina,Jesús García,Buenavista,Cuauhtemoc,19.440839,-99.152265,Arroyo
+266-267,Jesús García_Carlos J. Meneses,Jesús García,Carlos J. Meneses,Buenavista,Cuauhtemoc,19.444031,-99.152187,Arroyo
+268-269,Luis Donaldo Colosio_Av. Jesús García,Luis Donaldo Colosio,Av. Jesús García,Buenavista,Cuauhtemoc,19.442467,-99.151658,Arroyo
+270,De La República_Ponciano Arriaga,De La República,Ponciano Arriaga,Tabacalera,Cuauhtemoc,19.436764,-99.153865,Banqueta
+271-272,Jesús García_Carlos J. Meneses,Jesús García,Carlos J. Meneses,Buenavista,Cuauhtemoc,19.443684,-99.152465,Arroyo
+273-274,Luis Donaldo Colosio_Av. Jesús García,Luis Donaldo Colosio,Av. Jesús García,Buenavista,Cuauhtemoc,19.442707,-99.152956,Arroyo
+276,Anaxágoras_Obrero Mundial,Anaxágoras,Obrero Mundial,Narvarte Poniente,Benito Juarez,19.401986,-99.156366,Arroyo
+277,Prolongación Tonalá_Obrero Mundial,Prolongación Tonalá,Obrero Mundial,Narvarte Poniente,Benito Juarez,19.401807,-99.15909,Arroyo
+278,Mier Y Pesado_Obrero Mundial,Mier Y Pesado,Obrero Mundial,Del Valle Norte,Benito Juarez,19.40071,-99.163831,Arroyo
+279,La Morena_Providencia,La Morena,Providencia,Del Valle Norte,Benito Juarez,19.399908,-99.166553,Arroyo
+280,Anaxágoras_Obrero Mundial,Anaxágoras,Obrero Mundial,Narvarte Poniente,Benito Juarez,19.4015,-99.156406,Arroyo
+281,Pitágoras_La Morena,Pitágoras,La Morena,Narvarte Poniente,Benito Juarez,19.398532,-99.157308,Arroyo
+282,La Morena_Eje 2 Poniente Gabriel Mancera,La Morena,Eje 2 Poniente Gabriel Mancera,Del Valle Norte,Benito Juarez,19.398692,-99.161273,Arroyo
+283,Av. Coyoacán_Rafael Dondé,Av. Coyoacán,Rafael Dondé,Del Valle Norte,Benito Juarez,19.397923,-99.167248,Arroyo
+284,Dakota_Vermont,Dakota,Vermont,Napoles,Benito Juarez,19.397693,-99.172981,Arroyo
+285,12 De Octubre_Minería,12 De Octubre,Minería,Escandon,Miguel Hidalgo,19.399763,-99.177538,Arroyo
+286,13 De Septiembre_Avenida Patriotismo,13 De Septiembre,Avenida Patriotismo,Escandon,Miguel Hidalgo,19.399201,-99.179943,Arroyo
+287,13 De Septiembre_Puente De La Morena,13 De Septiembre,Puente De La Morena,Escandon,Miguel Hidalgo,19.398946,-99.183254,Arroyo
+288,11 De Abril_Avenida 2,11 De Abril,Avenida 2,San Pedro De Los Pinos,Benito Juarez,19.396359,-99.183579,Arroyo
+290,Yosemite_Colorado,Yosemite,Colorado,Napoles,Benito Juarez,19.396333,-99.172667,Arroyo
+291,Magdalena_División Del Norte,Magdalena,División Del Norte,Del Valle Norte,Benito Juarez,19.397651,-99.169946,Arroyo
+292,Adolfo Prieto_Eje 4 Sur Xola,Adolfo Prieto,Eje 4 Sur Xola,Del Valle Norte,Benito Juarez,19.396917,-99.166264,Arroyo
+293,Mier Y Pesado_Eje 4 Sur Xola,Mier Y Pesado,Eje 4 Sur Xola,Del Valle Norte,Benito Juarez,19.397373,-99.164598,Arroyo
+294,Nicolás San Juan_Eje 4 Sur Xola,Nicolás San Juan,Eje 4 Sur Xola,Narvarte Poniente,Benito Juarez,19.396513,-99.160924,Arroyo
+295,Anaxágoras_Eje 4 Sur Xola,Anaxágoras,Eje 4 Sur Xola,Narvarte Poniente,Benito Juarez,19.396328,-99.156871,Arroyo
+296,Diagonal San Antonio_Enrique Rébsamen,Diagonal San Antonio,Enrique Rébsamen,Narvarte Poniente,Benito Juarez,19.394283,-99.158756,Arroyo
+297,Diagonal San Antonio_Enrique Rébsamen,Diagonal San Antonio,Enrique Rébsamen,Narvarte Poniente,Benito Juarez,19.394412,-99.158907,Arroyo
+298,Romero De Terreros_Gabriel Mancera,Romero De Terreros,Gabriel Mancera,Del Valle Norte,Benito Juarez,19.394092,-99.162139,Arroyo
+299,Romero De Terreros_Mier Y Pesado,Romero De Terreros,Mier Y Pesado,Del Valle Norte,Benito Juarez,19.394601,-99.165054,Arroyo
+300,Providencia_Luz Saviñón,Providencia,Luz Saviñón,Del Valle Norte,Benito Juarez,19.3932287,-99.1684308,Arroyo
+301,Luz Saviñón_Magdalena,Luz Saviñón,Magdalena,Del Valle Norte,Benito Juarez,19.393807,-99.171133,Arroyo
+302,Luz Saviñón_Magdalena,Luz Saviñón,Magdalena,Del Valle Norte,Benito Juarez,19.393832,-99.171466,Arroyo
+303,Montecito_Av. Insurgentes,Montecito,Av. Insurgentes,Napoles,Benito Juarez,19.394842,-99.173025,Arroyo
+304,Montecito_Dakota,Montecito,Dakota,Napoles,Benito Juarez,19.395043,-99.173821,Arroyo
+305,Avenida Del Parque_Arizona,Avenida Del Parque,Arizona,Napoles,Benito Juarez,19.394693,-99.175531,Arroyo
+306,Dakota_Minnesota,Dakota,Minnesota,Napoles,Benito Juarez,19.393699,-99.175664,Arroyo
+307,Minnesota_Dakota,Minnesota,Dakota,Napoles,Benito Juarez,19.393701,-99.175834,Arroyo
+308,Nueva York_Arizona,Nueva York,Arizona,Napoles,Benito Juarez,19.393643,-99.178156,Arroyo
+309,Pensilvania_Arizona,Pensilvania,Arizona,Napoles,Benito Juarez,19.393059,-99.179483,Arroyo
+310,Calle 1_Av. Patriotismo,Calle 1,Av. Patriotismo,San Pedro De Los Pinos,Benito Juarez,19.395322,-99.181667,Arroyo
+312,Avenida 2_Calle 7,Avenida 2,Calle 7,San Pedro De Los Pinos,Benito Juarez,19.392634,-99.183737,Arroyo
+313,Pensilvania_Oklahoma,Pensilvania,Oklahoma,Napoles,Benito Juarez,19.391431,-99.178989,Arroyo
+314,Nueva York_Louisiana,Nueva York,Louisiana,Napoles,Benito Juarez,19.391647,-99.177331,Arroyo
+315,Alabama_Montana,Alabama,Montana,Napoles,Benito Juarez,19.391472,-99.1736,Arroyo
+316,San Francisco_Concepción Beistegui,San Francisco,Concepción Beistegui,Del Valle Norte,Benito Juarez,19.391056,-99.1712,Arroyo
+317,Avenida Coyoacán_Torres Adalid,Avenida Coyoacán,Torres Adalid,Del Valle Norte,Benito Juarez,19.391456,-99.166157,Arroyo
+318,Luz Saviñón_Amores,Luz Saviñón,Amores,Del Valle Norte,Benito Juarez,19.392195,-99.163987,Arroyo
+319,Diagonal San Antonio_Luz Saviñón,Diagonal San Antonio,Luz Saviñón,Del Valle Norte,Benito Juarez,19.391991,-99.162684,Arroyo
+320,Enrique Rébsamen_Luz Saviñón,Enrique Rébsamen,Luz Saviñón,Narvarte Poniente,Benito Juarez,19.391323,-99.15936,Arroyo
+321,Torres Adalid_Anaxágoras,Torres Adalid,Anaxágoras,Narvarte Poniente,Benito Juarez,19.389477,-99.157513,Arroyo
+322,Heriberto Frías_Concepción Beistegui,Heriberto Frías,Concepción Beistegui,Narvarte Poniente,Benito Juarez,19.388528,-99.160616,Arroyo
+323,Concepción Beistegui_Gabriel Mancera,Concepción Beistegui,Gabriel Mancera,Del Valle Norte,Benito Juarez,19.388927,-99.163127,Arroyo
+324,Amores_Avenida Eugenia,Amores,Avenida Eugenia,Del Valle Centro,Benito Juarez,19.387342,-99.165629,Arroyo
+325,Providencia_Avenida Del Valle,Providencia,Avenida Del Valle,Del Valle Centro,Benito Juarez,19.388178,-99.169689,Arroyo
+326,Eugenia_Nebraska,Eugenia,Nebraska,Ampliacion Napoles,Benito Juarez,19.388978,-99.174811,Arroyo
+327,Georgia_Pensilvania,Georgia,Pensilvania,Napoles,Benito Juarez,19.38885,-99.17772,Arroyo
+328,Avenida 1_Calle 7,Avenida 1,Calle 7,San Pedro De Los Pinos,Benito Juarez,19.392721,-99.184727,Arroyo
+329,Calle 13_Avenida 1,Calle 13,Avenida 1,San Pedro De Los Pinos,Benito Juarez,19.390306,-99.184812,Arroyo
+330,Calle 15_Avenida Patriotismo,Calle 15,Avenida Patriotismo,San Pedro De Los Pinos,Benito Juarez,19.389358,-99.182606,Arroyo
+331,Avenida 2_Calle 17,Avenida 2,Calle 17,San Pedro De Los Pinos,Benito Juarez,19.388748,-99.183924,Arroyo
+332,Calle 27_Avenida 3,Calle 27,Avenida 3,San Pedro De Los Pinos,Benito Juarez,19.385494,-99.183744,Arroyo
+333,Georgia_Carolina,Georgia,Carolina,Ampliacion Napoles,Benito Juarez,19.387624,-99.180978,Arroyo
+334,Nueva York_Av. Insurgentes,Nueva York,Av. Insurgentes,Ampliacion Napoles,Benito Juarez,19.3865269,-99.1751519,Arroyo
+335,Magdalena_Ameyalco,Magdalena,Ameyalco,Del Valle Centro,Benito Juarez,19.386985,-99.173416,Arroyo
+336,San Borja_Cda. Dr. J. Bartolache,San Borja,Cda. Dr. J. Bartolache,Del Valle Centro,Benito Juarez,19.385531,-99.169673,Arroyo
+337,San Borja_Martín Mendalde,San Borja,Martín Mendalde,Del Valle Centro,Benito Juarez,19.384849,-99.16704,Arroyo
+338,Nicolás San Juan_San Borja,Nicolás San Juan,San Borja,Del Valle Centro,Benito Juarez,19.384242,-99.16326,Arroyo
+339,Enrique Rébsamen_Avenida Eugenia,Enrique Rébsamen,Avenida Eugenia,Narvarte Poniente,Benito Juarez,19.386212,-99.160583,Arroyo
+340,Anaxágoras_Avenida Eugenia,Anaxágoras,Avenida Eugenia,Narvarte Poniente,Benito Juarez,19.3856299,-99.1582241,Arroyo
+341,San Borja_Avenida Cuauhtémoc,San Borja,Avenida Cuauhtémoc,Narvarte Poniente,Benito Juarez,19.382889,-99.158352,Arroyo
+342,Pitágoras_Av. División Del Norte,Pitágoras,Av. División Del Norte,Narvarte Poniente,Benito Juarez,19.382328,-99.159877,Arroyo
+343,Enrique Rébsamen_División Del Norte,Enrique Rébsamen,División Del Norte,Del Valle Centro,Benito Juarez,19.383904,-99.160875,Arroyo
+345,Patricio Sanz_Miraflores,Patricio Sanz,Miraflores,Insurgentes San Borja,Benito Juarez,19.384447,-99.172039,Arroyo
+346,San Francisco_Santa Margarita,San Francisco,Santa Margarita,Insurgentes San Borja,Benito Juarez,19.385039,-99.174018,Arroyo
+347,Pensilvania_Maximino Avila Camacho,Pensilvania,Maximino Avila Camacho,Ciudad De Los Deportes,Benito Juarez,19.384474,-99.176084,Arroyo
+348,Indiana_Avenida San Antonio,Indiana,Avenida San Antonio,Ciudad De Los Deportes,Benito Juarez,19.38542,-99.17823,Arroyo
+349,Augusto Rodin_Avenida San Antonio,Augusto Rodin,Avenida San Antonio,Ampliacion Napoles,Benito Juarez,19.385632,-99.180848,Arroyo
+351,Calle 27_Avenida Revolución,Calle 27,Avenida Revolución,San Pedro De Los Pinos,Benito Juarez,19.385751,-99.186297,Arroyo
+352,Tintoreto_Giorgione,Tintoreto,Giorgione,Nonoalco,Benito Juarez,19.384146,-99.185491,Arroyo
+353,Carolina_Holbein,Carolina,Holbein,Ciudad De Los Deportes,Benito Juarez,19.38213,-99.178814,Arroyo
+354,Boston_Av. Insurgentes,Boston,Av. Insurgentes,Noche Buena,Benito Juarez,19.381714,-99.176664,Arroyo
+355,California_Sacramento,California,Sacramento,Insurgentes San Borja,Benito Juarez,19.382042,-99.173336,Arroyo
+356,Matías Romero_Adolfo Prieto,Matías Romero,Adolfo Prieto,Del Valle Centro,Benito Juarez,19.381287,-99.1702,Arroyo
+357,Matías Romero_Amores,Matías Romero,Amores,Del Valle Centro,Benito Juarez,19.380617,-99.167066,Arroyo
+358,Nicolás San Juan_Matias Romero,Nicolás San Juan,Matias Romero,Del Valle Centro,Benito Juarez,19.380087,-99.16427,Arroyo
+359,Matías Romero_Pestalozzi,Matías Romero,Pestalozzi,Del Valle Centro,Benito Juarez,19.379331,-99.161163,Arroyo
+360,Heriberto Frías_Matias Romero,Heriberto Frías,Matias Romero,Del Valle Centro,Benito Juarez,19.379435,-99.162794,Arroyo
+361,Porfirio Díaz_Capulín,Porfirio Díaz,Capulín,Del Valle Centro,Benito Juarez,19.380691,-99.175036,Arroyo
+362,Augusto Rodin_Alberto Balderas,Augusto Rodin,Alberto Balderas,Ciudad De Los Deportes,Benito Juarez,19.382109,-99.181056,Arroyo
+363,Holbein_Paulo Ucello,Holbein,Paulo Ucello,Ciudad De Los Deportes,Benito Juarez,19.380839,-99.183932,Arroyo
+365,Holbein_Avenida Revolución,Holbein,Avenida Revolución,Nonoalco,Benito Juarez,19.381123,-99.18667,Arroyo
+366,Porfirio Díaz_Augusto Rodin,Porfirio Díaz,Augusto Rodin,Extremadura Insurgentes,Benito Juarez,19.378423,-99.181891,Arroyo
+367,Boston_Augusto Rodin,Boston,Augusto Rodin,Noche Buena,Benito Juarez,19.379593,-99.181351,Arroyo
+369,Porfirio Díaz_Av. Insurgentes,Porfirio Díaz,Av. Insurgentes,Extremadura Insurgentes,Benito Juarez,19.379941,-99.177224,Arroyo
+370,Tlacoquemécatl_Av. Insurgentes,Tlacoquemécatl,Av. Insurgentes,Tlacoquemecatl Del Valle,Benito Juarez,19.378827,-99.176944,Arroyo
+371,Tlacoquemécatl_Capulín,Tlacoquemécatl,Capulín,Tlacoquemecatl Del Valle,Benito Juarez,19.378546,-99.174297,Arroyo
+372,Dr. Roberto Gayol_Tlacoquemécatl,Dr. Roberto Gayol,Tlacoquemécatl,Del Valle Sur,Benito Juarez,19.377966,-99.170272,Arroyo
+373,Pilares_Gabriel Mancera,Pilares,Gabriel Mancera,Del Valle Centro,Benito Juarez,19.377932,-99.166594,Arroyo
+374,Pitágoras_Pilares,Pitágoras,Pilares,Del Valle Centro,Benito Juarez,19.376918,-99.16108,Arroyo
+375,Tenayuca_División Del Norte,Tenayuca,División Del Norte,Letran Valle,Benito Juarez,19.376997,-99.158779,Arroyo
+377,Heriberto Frías_Miguel Laurent,Heriberto Frías,Miguel Laurent,Del Valle Sur,Benito Juarez,19.375397,-99.163778,Arroyo
+378,Miguel Laurent_Amores,Miguel Laurent,Amores,Del Valle Sur,Benito Juarez,19.375865,-99.168219,Arroyo
+380,Moras_San Lorenzo,Moras,San Lorenzo,Tlacoquemecatl Del Valle,Benito Juarez,19.374756,-99.173539,Arroyo
+381,San Lorenzo_Manzanas,San Lorenzo,Manzanas,Tlacoquemecatl Del Valle,Benito Juarez,19.375495,-99.177819,Arroyo
+384,Empresa_Poussin,Empresa,Poussin,Insurgentes Mixcoac,Benito Juarez,19.375865,-99.185573,Arroyo
+385,Poussin_Empresa,Poussin,Empresa,Insurgentes Mixcoac,Benito Juarez,19.375806,-99.185527,Arroyo
+386,Poussin_Donatello,Poussin,Donatello,Insurgentes Mixcoac,Benito Juarez,19.374912,-99.185807,Arroyo
+387,Cadiz_Empresa,Cadiz,Empresa,Insurgentes Mixcoac,Benito Juarez,19.374267,-99.180546,Arroyo
+389,Santander_Félix Cuevas,Santander,Félix Cuevas,Insurgentes Mixcoac,Benito Juarez,19.373438,-99.179531,Arroyo
+390-391,Oso_Félix Cuevas,Oso,Félix Cuevas,Actipan,Benito Juarez,19.373384,-99.178173,Arroyo
+392,Patricio Sanz_Félix Cuevas,Patricio Sanz,Félix Cuevas,Tlacoquemecatl Del Valle,Benito Juarez,19.373004,-99.174764,Arroyo
+393,Adolfo Prieto_Félix Cuevas,Adolfo Prieto,Félix Cuevas,Tlacoquemecatl Del Valle,Benito Juarez,19.373307,-99.172471,Arroyo
+394,Dr. Roberto Gayol_Félix Cuevas,Dr. Roberto Gayol,Félix Cuevas,Del Valle Sur,Benito Juarez,19.372474,-99.171639,Arroyo
+395,San Lorenzo_Martín Mendalde,San Lorenzo,Martín Mendalde,Del Valle Sur,Benito Juarez,19.373725,-99.169807,Arroyo
+396,Martin Mendalde_Felix Cuevas,Martin Mendalde,Felix Cuevas,Del Valle Sur,Benito Juarez,19.37165,-99.17015,Arroyo
+397,San Lorenzo_Gabriel Mancera,San Lorenzo,Gabriel Mancera,Del Valle Sur,Benito Juarez,19.373112,-99.166981,Arroyo
+398,Juan Sánchez Azcona_Félix Cuevas,Juan Sánchez Azcona,Félix Cuevas,Del Valle Sur,Benito Juarez,19.37104,-99.165653,Arroyo
+399,Heriberto Frías_San Lorenzo,Heriberto Frías,San Lorenzo,Del Valle Sur,Benito Juarez,19.372469,-99.164538,Arroyo
+401,San Lorenzo_Avenida Cuauhtémoc,San Lorenzo,Avenida Cuauhtémoc,Santa Cruz Atoyac,Benito Juarez,19.372101,-99.161501,Arroyo
+402,Uxmal_Municipio Libre,Uxmal,Municipio Libre,Santa Cruz Atoyac,Benito Juarez,19.370957,-99.158886,Arroyo
+404,Miguel Laurent_Avenida División Del Norte,Miguel Laurent,Avenida División Del Norte,Portales Norte,Benito Juarez,19.373833,-99.157433,Arroyo
+405,División Del Norte_Municipio Libre,División Del Norte,Municipio Libre,Portales Norte,Benito Juarez,19.3705556,-99.15666667,Banqueta
+407,Prolongación Xochicalco_General Emiliano Zapata,Prolongación Xochicalco,General Emiliano Zapata,Residencial Emperadores,Benito Juarez,19.367209,-99.15872,Arroyo
+409,Azores_División Del Norte,Azores,División Del Norte,Santa Cruz Atoyac,Benito Juarez,19.365125,-99.155477,Arroyo
+412,Parroquia_Avenida Universidad,Parroquia,Avenida Universidad,Santa Cruz Atoyac,Benito Juarez,19.368107,-99.164376,Arroyo
+413,Parroquia_Avenida Coyoacán,Parroquia,Avenida Coyoacán,Centro Urbano Presidente Aleman,Benito Juarez,19.369823,-99.172164,Arroyo
+414,Parroquia_José Ignacio Bartolache,Parroquia,José Ignacio Bartolache,Del Valle Sur,Benito Juarez,19.370221,-99.173862,Arroyo
+415,San Francisco_Parroquia,San Francisco,Parroquia,Actipan,Benito Juarez,19.37099,-99.176135,Arroyo
+416,Recreo_Parroquia,Recreo,Parroquia,Del Valle Sur,Benito Juarez,19.371279,-99.177623,Arroyo
+417,Goya_Augusto Rodin,Goya,Augusto Rodin,Insurgentes Mixcoac,Benito Juarez,19.373198,-99.184274,Arroyo
+419,Actipan_Cadiz,Actipan,Cadiz,Insurgentes Mixcoac,Benito Juarez,19.370615,-99.181606,Arroyo
+420,María Luz Bringas_Oso,María Luz Bringas,Oso,Actipan,Benito Juarez,19.369782,-99.179707,Arroyo
+421,María Luz Bringas_Oso,María Luz Bringas,Oso,Actipan,Benito Juarez,19.36952,-99.179421,Arroyo
+422,Búfalo_José María Rico (Eje 8),Búfalo,José María Rico (Eje 8),Actipan,Benito Juarez,19.368403,-99.177472,Arroyo
+423,Moras_José María Rico (Eje 8),Moras,José María Rico (Eje 8),Acacias,Benito Juarez,19.367816,-99.175269,Arroyo
+424,Amores_José María Rico (Eje 8),Amores,José María Rico (Eje 8),Del Valle Sur,Benito Juarez,19.36715,-99.17055,Arroyo
+425,Nicolas San Juan_Avenida Universidad,Nicolas San Juan,Avenida Universidad,Del Valle Sur,Benito Juarez,19.36704,-99.167387,Arroyo
+427,Avenida México_Coyoacán-Av. Popocatépetl (Eje 8),Avenida México,Coyoacán-Av. Popocatépetl (Eje 8),Santa Cruz Atoyac,Benito Juarez,19.364912,-99.162968,Arroyo
+428,Prolongación Uxmal_Av. Popocatépetl (Eje 8),Prolongación Uxmal,Av. Popocatépetl (Eje 8),General Pedro Maria Anaya,Benito Juarez,19.363404,-99.160395,Arroyo
+429,Pirineos_Av. Popocatépetl (Eje 8),Pirineos,Av. Popocatépetl (Eje 8),Santa Cruz Atoyac,Benito Juarez,19.363049,-99.158436,Arroyo
+430,Tripoli_Av. Popocatépetl (Eje 8),Tripoli,Av. Popocatépetl (Eje 8),Santa Cruz Atoyac,Benito Juarez,19.36205,-99.154976,Arroyo
+432,Carrillo Puerto_Avenida México-Coyoacan,Carrillo Puerto,Avenida México-Coyoacan,General Pedro Maria Anaya,Benito Juarez,19.361245,-99.16239,Arroyo
+433,Jose María Olloqui_Lopéz Cotilla,Jose María Olloqui,Lopéz Cotilla,Del Valle Sur,Benito Juarez,19.363548,-99.170766,Arroyo
+434,Jose María Olloqui_Amores,Jose María Olloqui,Amores,Del Valle Sur,Benito Juarez,19.363741,-99.171268,Arroyo
+436,Rodríguez Saro_Búfalo,Rodríguez Saro,Búfalo,Actipan,Benito Juarez,19.36623,-99.177904,Arroyo
+437,Moras_Comunal,Moras,Comunal,Acacias,Benito Juarez,19.364916,-99.175985,Arroyo
+438,Adolfo Prieto_José María Olloqui,Adolfo Prieto,José María Olloqui,Acacias,Benito Juarez,19.36473,-99.174447,Arroyo
+439,Amores_Avenida Coyoacán,Amores,Avenida Coyoacán,Acacias,Benito Juarez,19.362037,-99.172683,Arroyo
+440,Martin Mendalde_M. López Cotilla,Martin Mendalde,M. López Cotilla,Acacias,Benito Juarez,19.361699,-99.171387,Arroyo
+441,Puente Xoco_Real De Mayorazgo,Puente Xoco,Real De Mayorazgo,Xoco,Benito Juarez,19.361213,-99.16752,Arroyo
+442,Real De Mayorazgo_Avenida México - Coyoacán,Real De Mayorazgo,Avenida México - Coyoacán,Xoco,Benito Juarez,19.359863,-99.165065,Arroyo
+443,Bruno Traven_Golondrinas,Bruno Traven,Golondrinas,General Pedro Maria Anaya,Benito Juarez,19.359583,-99.162085,Arroyo
+444,General Manuel Rincón_Agustín Gutierrez,General Manuel Rincón,Agustín Gutierrez,General Pedro Maria Anaya,Benito Juarez,19.359475,-99.159437,Arroyo
+445-446,Riff_Avenida Río Churubusco,Riff,Avenida Río Churubusco,General Pedro Maria Anaya,Benito Juarez,19.358934,-99.156064,Arroyo
+447,Agustín Melgar_Zamora,Agustín Melgar,Zamora,Condesa,Cuauhtemoc,19.418879,-99.176854,Arroyo
+448,Dr. Andrade_Arcos De Belén,Dr. Andrade,Arcos De Belén,Doctores,Cuauhtemoc,19.426611,-99.14447,Arroyo
+449,Acapulco_Puebla,Acapulco,Puebla,Roma Norte,Cuauhtemoc,19.420281,-99.174392,Arroyo
+450,Ramos Arizpe_Av México Tenochtitlan,Ramos Arizpe,Av México Tenochtitlan,Tabacalera,Cuauhtemoc,19.438228,-99.152269,Arroyo
+451,Campos Elíseos_Goldsmith,Campos Elíseos,Goldsmith,Polanco,Miguel Hidalgo,19.428847,-99.201299,Arroyo
+452,Leibnitz_Av. Ejercito Nacional,Leibnitz,Av. Ejercito Nacional,Anzures,Miguel Hidalgo,19.435867,-99.179856,Arroyo
+453,Pedregal_Teapa,Pedregal,Teapa,Lomas De Chapultepec Seccion Iv/Lomas Virreyes,Miguel Hidalgo,19.424842,-99.203739,Arroyo
+454,Montes Urales_Monte Pelvoux,Montes Urales,Monte Pelvoux,Lomas De Chapultepec Seccion Iv/Lomas Virreyes,Miguel Hidalgo,19.425905,-99.204236,Arroyo
+455,Pedregal_Ferrocarril De Cuernavaca,Pedregal,Ferrocarril De Cuernavaca,Molino Del Rey,Miguel Hidalgo,19.426308,-99.2033,Arroyo
+456,Alpes_Montes Escandinavos,Alpes,Montes Escandinavos,Lomas De Chapultepec Seccion V,Miguel Hidalgo,19.427517,-99.208412,Arroyo
+457,Av. Prado Norte_Explanada,Av. Prado Norte,Explanada,Lomas De Chapultepec Seccion V,Miguel Hidalgo,19.42703,-99.212845,Arroyo
+458,Montes Urales_Volcán,Montes Urales,Volcán,Lomas De Chapultepec Seccion Iii,Miguel Hidalgo,19.428679,-99.206605,Arroyo
+459,Volcán_Montes Urales,Volcán,Montes Urales,Lomas De Chapultepec Seccion Iii,Miguel Hidalgo,19.429243,-99.207267,Arroyo
+460,Juan Vázquez De Mella_Homero,Juan Vázquez De Mella,Homero,Polanco Seccion I/ Los Morales,Miguel Hidalgo,19.437014,-99.207932,Arroyo
+461,Presa Don Martín_Boulevard Miguel De Cervantes Saavedra,Presa Don Martín,Boulevard Miguel De Cervantes Saavedra,Irrigacion,Miguel Hidalgo,19.440106,-99.210031,Arroyo
+462,Presa Falcón_Presa Danxhó,Presa Falcón,Presa Danxhó,Irrigacion,Miguel Hidalgo,19.442338,-99.205198,Arroyo
+463,Lago Andrómaco_Lago Zurich,Lago Andrómaco,Lago Zurich,Ampliacion Granada,Miguel Hidalgo,19.443228,-99.202492,Arroyo
+464,Mateo Alemán_Prolongación Moliere,Mateo Alemán,Prolongación Moliere,Ampliacion Granada,Miguel Hidalgo,19.442421,-99.199838,Arroyo
+465,Lago Ginebra_Lago Wetter,Lago Ginebra,Lago Wetter,Cuauhtemoc Pensil,Miguel Hidalgo,19.445039,-99.194078,Arroyo
+466,Lago Onega_Lago Ladoga,Lago Onega,Lago Ladoga,Modelo Pensil,Miguel Hidalgo,19.44269,-99.19083,Arroyo
+467,Lago Mayor_Lago Alberto,Lago Mayor,Lago Alberto,Granada,Miguel Hidalgo,19.440399,-99.186784,Arroyo
+468,Lago Xochimilco_Av. Ejército Nacional,Lago Xochimilco,Av. Ejército Nacional,Anahuac I Seccion,Miguel Hidalgo,19.43726,-99.179624,Arroyo
+469,Bahía De La Concepción_Bahía De Todos Los Santos,Bahía De La Concepción,Bahía De Todos Los Santos,Veronica Anzures,Miguel Hidalgo,19.434183,-99.173089,Arroyo
+470,Bahía De Las Palmas_Bahía De Todos Los Santos,Bahía De Las Palmas,Bahía De Todos Los Santos,Veronica Anzures,Miguel Hidalgo,19.435039,-99.173879,Arroyo
+471,Bahía De Chachalacas_Bahía De Santa Bárbara,Bahía De Chachalacas,Bahía De Santa Bárbara,Veronica Anzures,Miguel Hidalgo,19.436287,-99.174888,Arroyo
+472,Bahía De Santa Bárbara_Bahía De Ballenas,Bahía De Santa Bárbara,Bahía De Ballenas,Veronica Anzures,Miguel Hidalgo,19.437667,-99.17711,Arroyo
+473,Bahía Del Espíritu Santo_Bahía De Banderas,Bahía Del Espíritu Santo,Bahía De Banderas,Veronica Anzures,Miguel Hidalgo,19.438143,-99.17519,Arroyo
+474,Bahía De San Hipólito_Bahía Del Espíritu Santo,Bahía De San Hipólito,Bahía Del Espíritu Santo,Anahuac I Seccion,Miguel Hidalgo,19.438984,-99.177549,Arroyo
+475,Lago Muritz_Lago Alberto,Lago Muritz,Lago Alberto,Anahuac I Seccion,Miguel Hidalgo,19.439249,-99.181065,Arroyo
+476,Lago Como_Laguna De Mayrán,Lago Como,Laguna De Mayrán,Granada,Miguel Hidalgo,19.442127,-99.184433,Arroyo
+477,Lago Iseo_Laguna De Mayrán,Lago Iseo,Laguna De Mayrán,Anahuac I Seccion,Miguel Hidalgo,19.440905,-99.181743,Arroyo
+478,Laguna De Mayrán_Lago Chalco,Laguna De Mayrán,Lago Chalco,Anahuac I Seccion,Miguel Hidalgo,19.440818,-99.176961,Arroyo
+479,Lago Muritz_Av.Marina Nacional,Lago Muritz,Av.Marina Nacional,Mariano Escobedo,Miguel Hidalgo,19.444433,-99.179664,Arroyo
+480,Lago Iseo_Av. Marina Nacional,Lago Iseo,Av. Marina Nacional,Mariano Escobedo,Miguel Hidalgo,19.446073,-99.181654,Arroyo
+481,Lago Garda_Mariano Escobedo,Lago Garda,Mariano Escobedo,Popotla,Miguel Hidalgo,19.449367,-99.182461,Arroyo
+482,Lago Xochimilco_Laguna De San Cristóbal,Lago Xochimilco,Laguna De San Cristóbal,Anahuac,Miguel Hidalgo,19.444826,-99.178393,Arroyo
+483,Colegio Salesiano_Marina Nacional,Colegio Salesiano,Marina Nacional,Anahuac,Miguel Hidalgo,19.443092,-99.177612,Arroyo
+484,Laguna Mayran_Lago Cuitzeo,Laguna Mayran,Lago Cuitzeo,Anahuac,Miguel Hidalgo,19.44046,-99.174564,Arroyo
+485,Lago De Pátzcuaro_Marina Nacional,Lago De Pátzcuaro,Marina Nacional,Anahuac,Miguel Hidalgo,19.438506,-99.172696,Arroyo
+486,Izcoatl_Circuito Interior Melchor Ocampo,Izcoatl,Circuito Interior Melchor Ocampo,Tlaxpana,Miguel Hidalgo,19.437334,-99.169573,Arroyo
+487,Nopaltzin_Quetzalcoatl,Nopaltzin,Quetzalcoatl,Tlaxpana,Miguel Hidalgo,19.439741,-99.168901,Arroyo
+488,Huetzin_Cuitláhuac,Huetzin,Cuitláhuac,Anahuac,Miguel Hidalgo,19.44484,-99.17049,Arroyo
+489,Lago Chalco_Laguna Tamiahua,Lago Chalco,Laguna Tamiahua,Anahuac,Miguel Hidalgo,19.446449,-99.176028,Arroyo
+490,Lago Garda_Ffcc,Lago Garda,Ffcc,Anahuac,Miguel Hidalgo,19.448935,-99.179295,Arroyo
+491,Colegio Salesiano_Lago Catemaco,Colegio Salesiano,Lago Catemaco,Anahuac,Miguel Hidalgo,19.449405,-99.176635,Arroyo
+492,Lago Cuitzeo_Felipe Carrillo Puerto,Lago Cuitzeo,Felipe Carrillo Puerto,Anahuac,Miguel Hidalgo,19.449125,-99.173442,Arroyo
+493,Lago Tláhuac_Laguna De Guzmán,Lago Tláhuac,Laguna De Guzmán,Anahuac,Miguel Hidalgo,19.445916,-99.170401,Arroyo
+494,Tláloc_Calzada México Tacuba,Tláloc,Calzada México Tacuba,Tlaxpana,Miguel Hidalgo,19.444053,-99.167429,Arroyo
+495,Amado Nervo_De Los Maestros,Amado Nervo,De Los Maestros,Agricultura,Miguel Hidalgo,19.445528,-99.166934,Arroyo
+496,Maestro Rural_José Parres,Maestro Rural,José Parres,Un Hogar Para Nosotros,Miguel Hidalgo,19.449039,-99.170246,Arroyo
+497,Manuel Carpio_Plan De Ayala,Manuel Carpio,Plan De Ayala,Santo Tomas,Miguel Hidalgo,19.452688,-99.170157,Arroyo
+498,De Los Maestros_Plan De Agua Prieta,De Los Maestros,Plan De Agua Prieta,Plutarco Elias Calles,Miguel Hidalgo,19.453197,-99.16645,Arroyo
+499,De Los Maestros_Calzada De Los Gallos,De Los Maestros,Calzada De Los Gallos,Agricultura,Miguel Hidalgo,19.455986,-99.165966,Arroyo
+500,Plan De Guadalupe /Ferrocarril De Cuernavaca_Juan Sarabia,Plan De Guadalupe /Ferrocarril De Cuernavaca,Juan Sarabia,Plutarco Elias Calles,Miguel Hidalgo,19.456546,-99.169344,Arroyo
+501,Plan De Guadalupe /Ferrocarril De Cuernavaca_Eligio Ancona,Plan De Guadalupe /Ferrocarril De Cuernavaca,Eligio Ancona,Nextitla,Miguel Hidalgo,19.454257,-99.172593,Arroyo
+502,Mar Mediterráneo_Callejón De La Zanja,Mar Mediterráneo,Callejón De La Zanja,Popotla,Miguel Hidalgo,19.453432,-99.174636,Arroyo
+503,Nextitla_Mar Egeo,Nextitla,Mar Egeo,Nextitla,Miguel Hidalgo,19.455531,-99.175222,Arroyo
+504,Mar Blanco_Calzada México Tacuba,Mar Blanco,Calzada México Tacuba,Popotla,Miguel Hidalgo,19.455343,-99.179056,Arroyo
+505,Mar Negro_Mariano Escobedo,Mar Negro,Mariano Escobedo,Popotla,Miguel Hidalgo,19.4553348,-99.1814278,Arroyo
+506,Mar Mediterráneo_Mar Arábigo,Mar Mediterráneo,Mar Arábigo,Tacuba,Miguel Hidalgo,19.459553,-99.185111,Arroyo
+507,Mar Mediterráneo_Azcapotzalco,Mar Mediterráneo,Azcapotzalco,Tacuba,Miguel Hidalgo,19.460292,-99.188303,Arroyo
+508,Libertad_C. José Sánchez Trujillo,Libertad,C. José Sánchez Trujillo,San Alvaro,Azcapotzalco,19.462421,-99.183614,Banqueta
+509,Juárez_Venecia,Juárez,Venecia,San Alvaro,Azcapotzalco,19.45968,-99.1818,Arroyo
+510,Egipto_Calle Norte 79 A,Egipto,Calle Norte 79 A,Claveria,Azcapotzalco,19.462152,-99.178291,Arroyo
+511,Palestina_Egipto,Palestina,Egipto,Claveria,Azcapotzalco,19.463865,-99.18229,Arroyo
+512,Clavería_Floresta,Clavería,Floresta,Claveria,Azcapotzalco,19.465636,-99.186342,Arroyo
+513,Av. Aquiles Serdán_Av. Invierno,Av. Aquiles Serdán,Av. Invierno,Angel Zimbron,Azcapotzalco,19.46961,-99.18983,Arroyo
+514,José F. Gutiérrez_Invierno,José F. Gutiérrez,Invierno,Angel Zimbron,Azcapotzalco,19.470485,-99.188509,Arroyo
+515,Tebas_C. Salónica,Tebas,C. Salónica,Del Recreo,Azcapotzalco,19.46969,-99.18405,Arroyo
+516,Texcoco_Nilo,Texcoco,Nilo,Claveria,Azcapotzalco,19.46669,-99.180302,Arroyo
+517,Ignacio Allende_Clavería,Ignacio Allende,Clavería,Claveria,Azcapotzalco,19.465377,-99.179197,Arroyo
+518,Heliópolis_Norte 79A,Heliópolis,Norte 79A,Claveria,Azcapotzalco,19.468315,-99.177386,Arroyo
+519,Poniente 58_Cuitláhuac,Poniente 58,Cuitláhuac,Obrero Popular,Azcapotzalco,19.464891,-99.177242,Arroyo
+520,Salónica_Eje 3 Norte Camarones,Salónica,Eje 3 Norte Camarones,Sector Naval,Azcapotzalco,19.47072,-99.17835,Camell<F3>N
+521,Yuca_Clavelinas,Yuca,Clavelinas,Nueva Santa Maria,Azcapotzalco,19.466423,-99.173061,Arroyo
+522,Prol. Nueces_Av. Cuitlahuac,Prol. Nueces,Av. Cuitlahuac,Unidad Habitacional Cuitl<E1>Huac,Azcapotzalco,19.4705145,-99.1700615,Banqueta
+523,Toronjil_Av. Cuitlahuac,Toronjil,Av. Cuitlahuac,Victoria De Las Democracias,Azcapotzalco,19.47111,-99.1653,Arroyo
+524,Malvón_Juan Sarabia,Malvón,Juan Sarabia,Hogar Y Seguridad,Azcapotzalco,19.468246,-99.168165,Arroyo
+525,Boldo_Tila,Boldo,Tila,Hogar Y Seguridad,Azcapotzalco,19.468293,-99.16557,Arroyo
+526,Toronjil_Mejorana,Toronjil,Mejorana,Ignacio Allende,Azcapotzalco,19.466937,-99.162948,Arroyo
+527,Boldo_Alcanfores,Boldo,Alcanfores,Nueva Santa Maria,Azcapotzalco,19.464826,-99.163177,Arroyo
+528,Tlatilco_Av. Jardín,Tlatilco,Av. Jardín,Tlatilco,Azcapotzalco,19.464966,-99.160413,Arroyo
+529,Av Plan De San Luis_Calle Clavelinas,Av Plan De San Luis,Calle Clavelinas,Nueva Santa Maria,Azcapotzalco,19.465552,-99.166851,Arroyo
+530,Membrillo_Cda. Nueces,Membrillo,Cda. Nueces,Nueva Santa Maria,Azcapotzalco,19.464564,-99.169496,Arroyo
+531,Norte 67_Poniente 44,Norte 67,Poniente 44,San Salvador Xochimanca,Azcapotzalco,19.460356,-99.174283,Arroyo
+532,Av. Biólogo Maximino Martínez_Camarones,Av. Biólogo Maximino Martínez,Camarones,San Salvador Xochimanca,Azcapotzalco,19.4608519,-99.1711992,Arroyo
+533,Av Plan De San Luis_Eulalia Gúzman,Av Plan De San Luis,Eulalia Gúzman,Nueva Santa Maria,Azcapotzalco,19.46047,-99.16727,Arroyo
+534,Tlatilco_Jazmín,Tlatilco,Jazmín,Tlatilco,Azcapotzalco,19.45883,-99.164513,Arroyo
+535,Av. Jardín_Orquídea,Av. Jardín,Orquídea,Tlatilco,Azcapotzalco,19.46173,-99.16225,Arroyo
+536,Fresno_Eulalia Guzmán (Eje 2 Norte),Fresno,Eulalia Guzmán (Eje 2 Norte),Atlampa,Cuauhtemoc,19.458881,-99.159215,Arroyo
+537,Fresno_Clavel,Fresno,Clavel,Atlampa,Cuauhtemoc,19.457594,-99.159455,Arroyo
+538,Nogal_Eligio Ancona,Nogal,Eligio Ancona,Santa Maria La Ribera,Cuauhtemoc,19.453663,-99.163756,Arroyo
+539,Naranjo_Av. Ricardo Flores Magon,Naranjo,Av. Ricardo Flores Magon,Atlampa,Cuauhtemoc,19.455189,-99.157644,Arroyo
+540,Eucalipto_Ricardo Flores Magón,Eucalipto,Ricardo Flores Magón,Santa Maria La Ribera,Cuauhtemoc,19.453975,-99.152525,Arroyo
+541,Eligio Ancona_Naranjo,Eligio Ancona,Naranjo,Santa Maria La Ribera,Cuauhtemoc,19.45272,-99.158014,Arroyo
+542,Dr. Enrique González Martínez_Eligio Ancona,Dr. Enrique González Martínez,Eligio Ancona,Santa Maria La Ribera,Cuauhtemoc,19.451838,-99.154584,Arroyo
+543,Jaime Torres Bodet_Manuel Carpio,Jaime Torres Bodet,Manuel Carpio,Santa Maria La Ribera,Cuauhtemoc,19.450506,-99.157375,Arroyo
+544,Salvador Díaz Mirón_Nogal,Salvador Díaz Mirón,Nogal,Santa Maria La Ribera,Cuauhtemoc,19.449773,-99.163136,Arroyo
+545,Sabino_Salvador Díaz Mirón,Sabino,Salvador Díaz Mirón,Santa Maria La Ribera,Cuauhtemoc,19.449104,-99.159931,Arroyo
+546,Salvador Díaz Mirón_Santa María La Ribera,Salvador Díaz Mirón,Santa María La Ribera,Santa Maria La Ribera,Cuauhtemoc,19.448764,-99.156817,Arroyo
+547,Dr. Enrique González Martínez_Salvador Díaz Mirón,Dr. Enrique González Martínez,Salvador Díaz Mirón,Santa Maria La Ribera,Cuauhtemoc,19.44763,-99.1554,Arroyo
+548,Dr. Mariano Azuela_Jose Antonio Alzate,Dr. Mariano Azuela,Jose Antonio Alzate,Santa Maria La Ribera,Cuauhtemoc,19.44701,-99.154318,Arroyo
+549,Sor Juana Ines De La Cruz_Dr. Atl,Sor Juana Ines De La Cruz,Dr. Atl,Santa Maria La Ribera,Cuauhtemoc,19.4450444,-99.15713333,Arroyo
+550,Sor Juana Ines De La Cruz_Fresno,Sor Juana Ines De La Cruz,Fresno,Santa Maria La Ribera,Cuauhtemoc,19.4459583,-99.16137222,Arroyo
+551,Nogal_Ribera De San Cosme,Nogal,Ribera De San Cosme,Santa Maria La Ribera,Cuauhtemoc,19.4435806,-99.16488333,Arroyo
+552,Fresno_Ribera De San Cosme,Fresno,Ribera De San Cosme,Santa Maria La Ribera,Cuauhtemoc,19.44310811,-99.16245373,Arroyo
+553,Jaime Torres Bodet_Ribera De San Cosme,Jaime Torres Bodet,Ribera De San Cosme,Santa Maria La Ribera,Cuauhtemoc,19.442,-99.15933333,Arroyo
+554,Heroes Ferrocarrileros_Mariano Azuela,Heroes Ferrocarrileros,Mariano Azuela,Santa Maria La Ribera,Cuauhtemoc,19.44174727,-99.15563897,Arroyo
+555,Ribera De San Cosme_Insurgentes Centro,Ribera De San Cosme,Insurgentes Centro,Santa Maria La Ribera,Cuauhtemoc,19.44021597,-99.15616778,Banqueta
+556,Plaza Tlaxcoaque_Diagonal 20 De Noviembre,Plaza Tlaxcoaque,Diagonal 20 De Noviembre,Centro,Cuauhtemoc,19.423056,-99.134941,Arroyo
+557,5 De Febrero_Fernando De Alva Ixtlilxochitl,5 De Febrero,Fernando De Alva Ixtlilxochitl,Obrera,Cuauhtemoc,19.41981,-99.135941,Arroyo
+558,Chimalpopoca_Simón Bolívar,Chimalpopoca,Simón Bolívar,Centro,Cuauhtemoc,19.4223,-99.139872,Arroyo
+559,Fernando De Alva Ixtlilxochitl_Diagonal 20 De Noviembre,Fernando De Alva Ixtlilxochitl,Diagonal 20 De Noviembre,Obrera,Cuauhtemoc,19.420029,-99.140999,Arroyo
+560,Doctor Liceaga_Eje Central,Doctor Liceaga,Eje Central,Doctores,Cuauhtemoc,19.421599,-99.143408,Arroyo
+561,Dr. Jiménez_Dr. Lavista,Dr. Jiménez,Dr. Lavista,Doctores,Cuauhtemoc,19.423673,-99.147957,Arroyo
+562,Claudio Bernard_José María Vertiz,Claudio Bernard,José María Vertiz,Doctores,Cuauhtemoc,19.42037,-99.146818,Arroyo
+563,Doctor Velasco_Niños Héroes,Doctor Velasco,Niños Héroes,Doctores,Cuauhtemoc,19.419444,-99.149776,Arroyo
+564,Doctor Carmona Y Valle_Doctor Velasco,Doctor Carmona Y Valle,Doctor Velasco,Doctores,Cuauhtemoc,19.419509,-99.153227,Arroyo
+565,Dr. Martinez Del Rio_Dr. Lucio,Dr. Martinez Del Rio,Dr. Lucio,Doctores,Cuauhtemoc,19.417668,-99.152775,Arroyo
+566,Dr. Jiménez_Dr. García Diego,Dr. Jiménez,Dr. García Diego,Doctores,Cuauhtemoc,19.41638,-99.1495,Arroyo
+567,Doctor Martínez Del Río_Doctor José Terrés,Doctor Martínez Del Río,Doctor José Terrés,Doctores,Cuauhtemoc,19.417133,-99.145649,Arroyo
+568,Doctor Barragán_Doctor Erazo,Doctor Barragán,Doctor Erazo,Doctores,Cuauhtemoc,19.418013,-99.144598,Arroyo
+569,Gutiérrez Nájera_Bolívar,Gutiérrez Nájera,Bolívar,Obrera,Cuauhtemoc,19.415713,-99.141227,Arroyo
+570,Alfredo Chavero_Simón Bolívar,Alfredo Chavero,Simón Bolívar,Obrera,Cuauhtemoc,19.417595,-99.140972,Arroyo
+571,Manuel M. Flores_Calzada San Antonio Abad,Manuel M. Flores,Calzada San Antonio Abad,Obrera,Cuauhtemoc,19.416221,-99.134909,Arroyo
+572,Manuel J. Othón_José T. Cuellar,Manuel J. Othón,José T. Cuellar,Obrera,Cuauhtemoc,19.414595,-99.135886,Arroyo
+573,Fernando Ramírez_Isabel La Católica,Fernando Ramírez,Isabel La Católica,Obrera,Cuauhtemoc,19.412853,-99.138723,Arroyo
+574,José María Roa Bárcenas_Simón Bolívar,José María Roa Bárcenas,Simón Bolívar,Obrera,Cuauhtemoc,19.41175,-99.14096,Arroyo
+575,Fernando Ramírez_Eje Central,Fernando Ramírez,Eje Central,Obrera,Cuauhtemoc,19.413235,-99.143476,Arroyo
+576,Doctor Arce_Jose Maria Vertiz,Doctor Arce,Jose Maria Vertiz,Doctores,Cuauhtemoc,19.413469,-99.14825,Arroyo
+577,Doctor Márquez_Doctor Jiménez,Doctor Márquez,Doctor Jiménez,Doctores,Cuauhtemoc,19.411609,-99.15314,Arroyo
+578,Doctor Jiménez_Doctor Federico Gómez Santos,Doctor Jiménez,Doctor Federico Gómez Santos,Doctores,Cuauhtemoc,19.408649,-99.151126,Arroyo
+579,Doctor Márquez_Privada Doctor Duran,Doctor Márquez,Privada Doctor Duran,Doctores,Cuauhtemoc,19.410884,-99.144975,Arroyo
+580,Antonio Solís_Bolívar,Antonio Solís,Bolívar,Obrera,Cuauhtemoc,19.409817,-99.141643,Arroyo
+581,José María Roa Bárcenas_San Antonio Abad,José María Roa Bárcenas,San Antonio Abad,Obrera,Cuauhtemoc,19.411323,-99.135626,Arroyo
+582,Antonio Solis_San Antonio Abad,Antonio Solis,San Antonio Abad,Obrera,Cuauhtemoc,19.409473,-99.135939,Arroyo
+583,Ángel Del Campo_5 De Febrero,Ángel Del Campo,5 De Febrero,Obrera,Cuauhtemoc,19.408087,-99.137763,Arroyo
+584,Enrique Granados_José Peón Contreras (Eje 3),Enrique Granados,José Peón Contreras (Eje 3),Algarin,Cuauhtemoc,19.40697,-99.14383,Arroyo
+585,José Toribio Medina_Manuel Navarrete,José Toribio Medina,Manuel Navarrete,Algarin,Cuauhtemoc,19.405358,-99.14316,Arroyo
+586,Bernardo Couto_Juan E. Hernández Y Davalos,Bernardo Couto,Juan E. Hernández Y Davalos,Algarin,Cuauhtemoc,19.406458,-99.138735,Arroyo
+587,Jose Toribio Medina_Marcelino Davalos,Jose Toribio Medina,Marcelino Davalos,Algarin,Cuauhtemoc,19.404654,-99.136966,Arroyo
+588,Av. Fernando_La Coruña,Av. Fernando,La Coruña,Alamos,Benito Juarez,19.401239,-99.137404,Arroyo
+589,Cádiz_Calzada De Tlalpan,Cádiz,Calzada De Tlalpan,Alamos,Benito Juarez,19.39859,-99.137732,Arroyo
+590,Fernando_Isabel La Católica,Fernando,Isabel La Católica,Alamos,Benito Juarez,19.399172,-99.140625,Arroyo
+591,Simón Bolívar_La Coruña,Simón Bolívar,La Coruña,Alamos,Benito Juarez,19.402088,-99.142976,Arroyo
+592,Cádiz_Eje Central Lázaro Cárdenas,Cádiz,Eje Central Lázaro Cárdenas,Alamos,Benito Juarez,19.399664,-99.145136,Arroyo
+593,Zempoala_Diagonal De San Antonio,Zempoala,Diagonal De San Antonio,Narvarte,Benito Juarez,19.400943,-99.147989,Arroyo
+594,Xochicalco_Obrero Mundial,Xochicalco,Obrero Mundial,Piedad Narvarte,Benito Juarez,19.402277,-99.153294,Arroyo
+595,Yacatas_Diagonal De San Antonio,Yacatas,Diagonal De San Antonio,Narvarte,Benito Juarez,19.396983,-99.155114,Arroyo
+596,Cumbres De Maltrata_Uxmal,Cumbres De Maltrata,Uxmal,Narvarte,Benito Juarez,19.395205,-99.155049,Arroyo
+597,Diagonal San Antonio_Icacos,Diagonal San Antonio,Icacos,Narvarte,Benito Juarez,19.398858,-99.151211,Arroyo
+598,Palenque_Cumbres De Maltrata,Palenque,Cumbres De Maltrata,Narvarte,Benito Juarez,19.3931,-99.152012,Arroyo
+599,La Morena_Zempoala,La Morena,Zempoala,Narvarte,Benito Juarez,19.398143,-99.148333,Arroyo
+600,Cumbres De Acultzingo_Av. Universidad,Cumbres De Acultzingo,Av. Universidad,Narvarte,Benito Juarez,19.392463,-99.150544,Arroyo
+601,Navarra_Fernando,Navarra,Fernando,Alamos,Benito Juarez,19.395812,-99.145347,Arroyo
+602,Correspondencia_Eje Central Lázaro Cárdenas,Correspondencia,Eje Central Lázaro Cárdenas,Postal,Benito Juarez,19.392523,-99.146194,Arroyo
+603,Castilla_Eje 4 Sur Xola,Castilla,Eje 4 Sur Xola,Alamos,Benito Juarez,19.394422,-99.143291,Arroyo
+604,Andalucía_Carteros,Andalucía,Carteros,Postal,Benito Juarez,19.390945,-99.142972,Arroyo
+605,5 De Febrero_Alfonso Xiii,5 De Febrero,Alfonso Xiii,Alamos,Benito Juarez,19.39516,-99.139532,Arroyo
+606,Alfonso Xiii_Aragón,Alfonso Xiii,Aragón,Alamos,Benito Juarez,19.39489,-99.1389,Arroyo
+607,Unión Postal_Calzada De Tlalpan,Unión Postal,Calzada De Tlalpan,Postal,Benito Juarez,19.390924,-99.13895,Arroyo
+608,Ahorro Postal_Francisco Márquez,Ahorro Postal,Francisco Márquez,Josefa Ortiz De Dominguez,Benito Juarez,19.388373,-99.139746,Arroyo
+609,Romero_Calzada De Tlalpan,Romero,Calzada De Tlalpan,Americas Unidas,Benito Juarez,19.384623,-99.139817,Arroyo
+610,Av. Víctor Hugo_Av. Niños Héroes De Chapultepec,Av. Víctor Hugo,Av. Niños Héroes De Chapultepec,Ni<F1>Os Heroes De Chapultepec,Benito Juarez,19.387174,-99.143708,Arroyo
+611,Miguel Negrete_Niños Héroes De Chapultepec,Miguel Negrete,Niños Héroes De Chapultepec,Ni<F1>Os Heroes De Chapultepec,Benito Juarez,19.387506,-99.146338,Arroyo
+612,Torres Adalid_Cumbres De Maltrata,Torres Adalid,Cumbres De Maltrata,Narvarte,Benito Juarez,19.388148,-99.148446,Arroyo
+613,Luz Saviñón_Doctor José María Vertiz,Luz Saviñón,Doctor José María Vertiz,Narvarte,Benito Juarez,19.390019,-99.15111,Arroyo
+614,Torres Adalid_Av. Cuauhtémoc,Torres Adalid,Av. Cuauhtémoc,Narvarte Poniente,Benito Juarez,19.3893,-99.15633,Arroyo
+615,Tajín_Universidad,Tajín,Universidad,Narvarte,Benito Juarez,19.38748,-99.153876,Arroyo
+616,Petén_Eje 5 Sur,Petén,Eje 5 Sur,Vertiz Narvarte,Benito Juarez,19.38483,-99.15363,Arroyo
+617,Mitla_Eje 5 Sur,Mitla,Eje 5 Sur,Narvarte,Benito Juarez,19.384589,-99.150517,Arroyo
+618,Bartolomé R. Salido_Edzna,Bartolomé R. Salido,Edzna,Vertiz Narvarte,Benito Juarez,19.381824,-99.148086,Arroyo
+619,Kiff_Rafael Solana Verduguillo,Kiff,Rafael Solana Verduguillo,Independencia,Benito Juarez,19.381277,-99.145804,Arroyo
+620,Fernando Montes De Oca_Priv. Lago,Fernando Montes De Oca,Priv. Lago,Americas Unidas,Benito Juarez,19.381804,-99.142997,Arroyo
+621,Lago Poniente_Calzada De Tlalpan,Lago Poniente,Calzada De Tlalpan,Americas Unidas,Benito Juarez,19.379458,-99.140943,Arroyo
+622,Fernando Montes De Oca_Eje 6 Sur,Fernando Montes De Oca,Eje 6 Sur,San Simon Ticumac,Benito Juarez,19.378362,-99.144007,Arroyo
+623,Fernando Montes De Oca_Antonio Rodríguez,Fernando Montes De Oca,Antonio Rodríguez,San Simon Ticumac,Benito Juarez,19.375518,-99.144118,Arroyo
+624,Luis Spota_Eje Central Lázaro Cárdenas,Luis Spota,Eje Central Lázaro Cárdenas,San Simon Ticumac,Benito Juarez,19.377516,-99.148116,Arroyo
+625,Zempoala_Angel Urraza,Zempoala,Angel Urraza,Independencia,Benito Juarez,19.379521,-99.150052,Arroyo
+626,San Borja_Petén,San Borja,Petén,Vertiz Narvarte,Benito Juarez,19.382115,-99.153988,Arroyo
+627,San Borja_Av. Universidad,San Borja,Av. Universidad,Vertiz Narvarte,Benito Juarez,19.382606,-99.156592,Arroyo
+628,Tenayuca_Chichen Itzá,Tenayuca,Chichen Itzá,Letran Valle,Benito Juarez,19.378281,-99.15841,Arroyo
+629,Tajín_Chichen Itzá,Tajín,Chichen Itzá,Letran Valle,Benito Juarez,19.376367,-99.155872,Arroyo
+630,Cuicuilco_Motozintla,Cuicuilco,Motozintla,Letran Valle,Benito Juarez,19.375677,-99.152953,Arroyo
+631,Miguel Laurent_Eje Central,Miguel Laurent,Eje Central,Portales,Benito Juarez,19.372907,-99.149207,Arroyo
+632,Victor Hugo_Sevilla,Victor Hugo,Sevilla,Portales,Benito Juarez,19.370891,-99.151577,Arroyo
+633,Canarias_Calzada Santa Cruz,Canarias,Calzada Santa Cruz,San Simon Ticumac,Benito Juarez,19.372175,-99.146356,Arroyo
+634,Rumania_Víctor Hugo,Rumania,Víctor Hugo,Portales,Benito Juarez,19.370133,-99.145866,Arroyo
+635,Calzada Santa Cruz_Antillas,Calzada Santa Cruz,Antillas,Portales,Benito Juarez,19.370586,-99.142294,Arroyo
+636,Ajusco_Antillas,Ajusco,Antillas,Portales,Benito Juarez,19.367131,-99.142838,Arroyo
+637,Ajusco_Emperadores,Ajusco,Emperadores,Portales,Benito Juarez,19.36576,-99.144413,Arroyo
+638,Av Pirineos_C. Antillas,Av Pirineos,C. Antillas,Portales,Benito Juarez,19.361743,-99.143867,Arroyo
+639,Bulgaria_Rumania,Bulgaria,Rumania,Portales,Benito Juarez,19.364528,-99.146988,Arroyo
+640,Odesa_Bulgaria,Odesa,Bulgaria,Portales,Benito Juarez,19.367465,-99.148786,Arroyo
+641,Sevilla_Av. Presidentes,Sevilla,Av. Presidentes,Portales,Benito Juarez,19.368109,-99.151863,Arroyo
+642,Repúblicas_Monrovia,Repúblicas,Monrovia,Portales,Benito Juarez,19.364001,-99.150422,Arroyo
+643,Filipinas_Av. Pirineos,Filipinas,Av. Pirineos,Portales,Benito Juarez,19.362323,-99.148805,Arroyo
+644,Monrovia_Popocatépetl (Eje 8 Sur),Monrovia,Popocatépetl (Eje 8 Sur),Portales,Benito Juarez,19.361371,-99.150619,Arroyo
+645,Saratoga_Ajusco,Saratoga,Ajusco,Portales,Benito Juarez,19.358634,-99.152732,Arroyo
+646,Rumania_Av. Popocatépetl,Rumania,Av. Popocatépetl,Portales,Benito Juarez,19.36053,-99.1475,Arroyo
+647,Antillas_Nevado,Antillas,Nevado,Portales,Benito Juarez,19.359093,-99.145247,Arroyo
+648,Rafael Olivia_20 De Agosto,Rafael Olivia,20 De Agosto,San Diego Churubusco,Coyoacan,19.354411,-99.147795,Arroyo
+649,Héroes Del 47_Calzada De Tlalpan,Héroes Del 47,Calzada De Tlalpan,San Mateo,Coyoacan,19.35072,-99.146786,Arroyo
+650,Xicoténcatl_Prolongación Xicoténcatl,Xicoténcatl,Prolongación Xicoténcatl,San Diego Churubusco,Coyoacan,19.355945,-99.149258,Arroyo
+651,Héroes Del 47_División Del Norte,Héroes Del 47,División Del Norte,San Mateo,Coyoacan,19.351578,-99.150941,Arroyo
+652,Xicoténcatl_División Del Norte,Xicoténcatl,División Del Norte,Del Carmen,Coyoacan,19.354876,-99.153611,Arroyo
+653,Londres_División Del Norte,Londres,División Del Norte,Del Carmen,Coyoacan,19.35674,-99.15309,Arroyo
+654,Londres_San Pedro,Londres,San Pedro,Del Carmen,Coyoacan,19.355942,-99.157461,Arroyo
+655,Gomez Farias_Viena,Gomez Farias,Viena,Del Carmen,Coyoacan,19.357076,-99.160189,Arroyo
+656,Ignacio Allende_Paris,Ignacio Allende,Paris,Del Carmen,Coyoacan,19.3543111,-99.16243611,Arroyo
+657,Madrid_Centenario,Madrid,Centenario,Del Carmen,Coyoacan,19.3574361,-99.16379444,Arroyo
+658,Vicente Guerrero_Berlín,Vicente Guerrero,Berlín,Del Carmen,Coyoacan,19.355339,-99.165613,Arroyo
+659,Madrid_Avenida Mexico,Madrid,Avenida Mexico,Del Carmen,Coyoacan,19.3564861,-99.16945556,Arroyo
+660,Josefa Ortiz De Dominguez_Circuito Interior,Josefa Ortiz De Dominguez,Circuito Interior,Del Carmen,Coyoacan,19.3580028,-99.17010556,Arroyo
+661,Madrid_Universidad,Madrid,Universidad,Del Carmen,Coyoacan,19.35675,-99.171769,Arroyo
+662,Manzano_Circuito Interior,Manzano,Circuito Interior,Axotla,Alvaro Obregon,19.362041,-99.175158,Arroyo
+663,Hortensia_Avenida Universidad,Hortensia,Avenida Universidad,Axotla,Alvaro Obregon,19.3548028,-99.17541944,Arroyo
+664,Hortensia_2Da Cerrada De Minerva,Hortensia,2Da Cerrada De Minerva,Florida,Alvaro Obregon,19.355544,-99.178992,Arroyo
+665,Moras_Mango,Moras,Mango,Florida,Alvaro Obregon,19.3589028,-99.17799722,Arroyo
+666,Moras_Naranjo,Moras,Naranjo,Florida,Alvaro Obregon,19.3614885,-99.17743249,Arroyo
+667,Hermes_Mosqueta,Hermes,Mosqueta,Credito Constructor,Benito Juarez,19.3639778,-99.18091389,Arroyo
+668,Plateros_Capuchinas,Plateros,Capuchinas,San Jose Insurgentes,Benito Juarez,19.367522,-99.181727,Banqueta
+669,Los Juarez_Sagredo,Los Juarez,Sagredo,San Jose Insurgentes,Benito Juarez,19.37075451,-99.18743854,Arroyo
+670,Felix Parra_Flamencos,Felix Parra,Flamencos,San Jose Insurgentes,Benito Juarez,19.3676,-99.18499167,Arroyo
+671,Plateros_Jose María Velasco,Plateros,Jose María Velasco,San Jose Insurgentes,Benito Juarez,19.364577,-99.186288,Arroyo
+672,José María Velasco_Damas,José María Velasco,Damas,San Jose Insurgentes,Benito Juarez,19.36295,-99.183161,Arroyo
+673,Miguel Noreña_José María Ibarrarán,Miguel Noreña,José María Ibarrarán,San Jose Insurgentes,Benito Juarez,19.363153,-99.186963,Arroyo
+674,Silvestre Revueltas_Macedonio Alcalá,Silvestre Revueltas,Macedonio Alcalá,Guadalupe Inn,Alvaro Obregon,19.361845,-99.186887,Banqueta
+675,Manuel Castro Padilla_Av. Revolución,Manuel Castro Padilla,Av. Revolución,Guadalupe Inn,Alvaro Obregon,19.3625527,-99.1889526,Arroyo
+676,Ricardo Palmerín_Abundio Martínez,Ricardo Palmerín,Abundio Martínez,Guadalupe Inn,Alvaro Obregon,19.358262,-99.18809,Arroyo
+677,Juan Pablo Ii_Av. De Los Insurgentes Sur,Juan Pablo Ii,Av. De Los Insurgentes Sur,Guadalupe Inn,Alvaro Obregon,19.359053,-99.184317,Arroyo
+678,Francia_Tecoyotitla,Francia,Tecoyotitla,Florida,Alvaro Obregon,19.35886344,-99.18292974,Arroyo
+679,Olivo_Tecoyotitla,Olivo,Tecoyotitla,Florida,Alvaro Obregon,19.354886,-99.184642,Arroyo
+680,Diego Becerra_Av. Revolución,Diego Becerra,Av. Revolución,San Jose Insurgentes,Benito Juarez,19.36672,-99.188409,Arroyo
+681,Guty Cárdenas_Ricardo Castro,Guty Cárdenas,Ricardo Castro,Guadalupe Inn,Alvaro Obregon,19.355817,-99.189142,Arroyo
+682,Manuel M. Ponce_Fernando M. Villalpando,Manuel M. Ponce,Fernando M. Villalpando,Guadalupe Inn,Alvaro Obregon,19.35355,-99.189519,Arroyo
+683,Pedro Luis Ogazón_Insurgentes Sur,Pedro Luis Ogazón,Insurgentes Sur,San Angel,Alvaro Obregon,19.3503611,-99.1871111,Arroyo
+684,Vito Alessio Robles_Tecoyotitla,Vito Alessio Robles,Tecoyotitla,Guadalupe Chimalistac,Alvaro Obregon,19.351594,-99.184772,Arroyo
+685,Av De La Paz_Insurgentes,Av De La Paz,Insurgentes,Guadalupe Chimalistac,Alvaro Obregon,19.347693,-99.187026,Banqueta
+686,Vito Alessio Robles_Universidad,Vito Alessio Robles,Universidad,Agricola,Alvaro Obregon,19.352203,-99.178393,Arroyo
+687,Francisco Sosa_Panzacola,Francisco Sosa,Panzacola,Santa Catarina,Coyoacan,19.349348,-99.179015,Arroyo
+688,Panzacola_Miguel Ángel De Quevedo,Panzacola,Miguel Ángel De Quevedo,Santa Catarina,Coyoacan,19.346975,-99.178791,Arroyo
+689,G. Pérez Valenzuela_Salvador Novo,G. Pérez Valenzuela,Salvador Novo,Santa Catarina,Coyoacan,19.351426,-99.175455,Arroyo
+690,Tata Vasco_Av. Miguel Ángel De Quevedo,Tata Vasco,Av. Miguel Ángel De Quevedo,Santa Catarina,Coyoacan,19.3459701,-99.17296,Arroyo
+691,Melchor Ocampo_Dulce Olivia,Melchor Ocampo,Dulce Olivia,Santa Catarina,Coyoacan,19.347283,-99.170834,Arroyo
+692,Presidente Carranza_Francisco Sosa,Presidente Carranza,Francisco Sosa,Santa Catarina,Coyoacan,19.349149,-99.169646,Arroyo
+693,Xicoténcatl_Vicente Guerrero,Xicoténcatl,Vicente Guerrero,Del Carmen,Coyoacan,19.352531,-99.164913,Arroyo
+694,Ignacio Aldama_Centenario,Ignacio Aldama,Centenario,Del Carmen,Coyoacan,19.353243,-99.163753,Arroyo
+695,Malintzin_Allende,Malintzin,Allende,Del Carmen,Coyoacan,19.352143,-99.162096,Arroyo
+696,México_Malintzin,México,Malintzin,Del Carmen,Coyoacan,19.35154,-99.164523,Arroyo
+697,Francisco Sosa_Tres Cruces,Francisco Sosa,Tres Cruces,Villa Coyoacan,Coyoacan,19.349277,-99.164921,Arroyo
+698,Cerrada Zamora_Av. Miguel Ángel De Quevedo,Cerrada Zamora,Av. Miguel Ángel De Quevedo,Villa Coyoacan,Coyoacan,19.344855,-99.163575,Arroyo
+699,San Gregorio_Felipe Carrillo Puerto,San Gregorio,Felipe Carrillo Puerto,Villa Coyoacan,Coyoacan,19.346895,-99.163868,Arroyo
+700,Abasolo_Miguel Hidalgo,Abasolo,Miguel Hidalgo,Del Carmen,Coyoacan,19.350062,-99.160024,Arroyo
+701,Cuauhtémoc_Morelos,Cuauhtémoc,Morelos,Del Carmen,Coyoacan,19.352052,-99.157981,Arroyo
+702,Fernández Leal_Plaza De La Conchita,Fernández Leal,Plaza De La Conchita,Barrio La Concepcion,Coyoacan,19.347246,-99.15857,Arroyo
+703,Miguel Hidalgo_Calzada General Anaya,Miguel Hidalgo,Calzada General Anaya,Del Carmen,Coyoacan,19.350776,-99.155379,Arroyo
+704,Pacífico_Asia,Pacífico,Asia,Barrio La Concepcion,Coyoacan,19.344976,-99.157824,Arroyo
+705,Europa_Miguel Ángel De Quevedo,Europa,Miguel Ángel De Quevedo,Parque San Andres,Coyoacan,19.34406,-99.155983,Arroyo
+706,Canadá_Acolotitla,Canadá,Acolotitla,Barrio San Lucas,Coyoacan,19.347503,-99.15244,Arroyo
+707,Irlanda_División Del Norte,Irlanda,División Del Norte,Parque San Andres,Coyoacan,19.348076,-99.14906,Arroyo
+708,Irlanda_Canada,Irlanda,Canada,Parque San Andres,Coyoacan,19.346489,-99.145828,Arroyo
+709,Inglaterra_Antigua Taxqueña,Inglaterra,Antigua Taxqueña,Parque San Andres,Coyoacan,19.344271,-99.149973,Arroyo
+710,Molino Del Rey_Glorieta De La Lealtad,Molino Del Rey,Glorieta De La Lealtad,San Miguel Chapultepec,Miguel Hidalgo,19.4168415,-99.1925204,Calzada
+711,Molino Del Rey_Av. Constituyentes,Molino Del Rey,Av. Constituyentes,San Miguel Chapultepec,Miguel Hidalgo,19.4136683,-99.1919528,Calzada
