@@ -71,7 +71,7 @@ For this model we obtained a 96% accuracy
 
 ## 2. Route Analysis with K Means Cluster model
 
-For this model we sed the Kmeans method 
+For this model we used the Kmeans method 
 
 So following the same steps we first cleaned, normalized, and standardized prior to modeling
 
@@ -95,7 +95,22 @@ In this model the accuracy we got wasn't as good as on the 1st model.
 <img width="1064" alt="Screenshot 2025-04-06 at 12 35 57 p m" src="https://github.com/user-attachments/assets/0b07329c-5a1e-44e7-9a31-d0656df8a99d" />
 
 
-## 3. Bicycle Demand Prediction: Analyzes pickup and drop-off patterns to predict which stations will require the most bikes at certain times of the day.
+## 3. Bicycle Demand Prediction: Analyzes pickup and drop-off patterns to predict which stations will require the most bikes at certain times of the day with 
+## Random Forest Regressor Method
+
+For this model we used the Random Forest Regressor Method
+
+So following the same steps we first cleaned, normalized, and standardized prior to modeling
+
+In this case we got the following accuracy for the model:
+
+![Screenshot 2025-04-06 at 2 53 11 p m](https://github.com/user-attachments/assets/223ad3cf-68a0-4e57-9368-7d91db067be3)
+
+And the resulting graphs for the Pickup and Arrival Stations were the following:
+
+![Screenshot 2025-04-06 at 2 45 51 p m](https://github.com/user-attachments/assets/80435844-b80b-4c44-a949-beee19eda28c)
+
+![Screenshot 2025-04-06 at 2 46 00 p m](https://github.com/user-attachments/assets/4718b83a-11f1-4c42-baea-b2260aee80d7)
 
 
 # CONCLUSSIONS
