@@ -115,9 +115,21 @@ And the resulting graphs for the Pickup and Arrival Stations were the following:
 ![Screenshot 2025-04-06 at 2 46 00 p m](https://github.com/user-attachments/assets/4718b83a-11f1-4c42-baea-b2260aee80d7)
 
 
-
-
 ## 4. User Segmentation
+
+For this model we also used the Kmeans method 
+
+As in the priors methods we first cleaned, normalized, and standardized prior to modeling
+
+Here are some of the visual results we obtained
+
+![Screenshot 2025-04-06 at 7 03 25 p m](https://github.com/user-attachments/assets/1ec71d6f-d940-4ab7-8308-b750dccb0341)
+
+![cluster_analysis](https://github.com/user-attachments/assets/4ce4cf15-5506-4d2c-8ef0-783b35834a3b)
+
+
+In this case we obtained an accuracy of 43% but this can be improved with some more computing power to be able to input all of the data_
+
 
 ## 5. Time duration
 
@@ -139,15 +151,21 @@ Some of the results are displayed on the following images_
 <img width="1124" alt="Screenshot 2025-04-05 at 11 20 23 p m" src="https://github.com/user-attachments/assets/60f0714f-b771-4b0d-8358-4cc22afe7d67" />
 
 
-# CONCLUSSIONS
+# CONCLUSIONS
 
-Some of the results may be significant for these use cases:
+Based on the analysis carried out with the different machine learning models, these are some of the areas of opportunity that we believe can be obtained by training and improving the algorithms presented.
 
-Identification of high-demand areas. Areas with high concentrations of usage can be identified for the location of new stations or the adjustment of the size of current ones.
-
+### *Bicycle Demand Prediction* 
 Bicycle redistribution. Understanding which stations tend to be used together or share usage patterns can help with transport logistics and bicycle redistribution.
 
-Targeted marketing: Understanding the demographics and patterns of users who use stations in a cluster can inform more effective marketing campaigns.
+### *Identification of high-demand areas* 
+Areas with high concentrations of usage can be identified for the location of new stations or the adjustment of the size of current ones.
+
+### *Ride Duration Insights* 
+Predicting trip duration, you could explore factors influencing ride length, such as distance, time of day, or user experience, indicating potential areas for service improvements.
+
+### *Targeted marketing* 
+Understanding the demographics and patterns of users who use stations in a cluster can inform more effective marketing campaigns.
 
 
 
