@@ -54,7 +54,7 @@ In this section, we will use four different machine learning techniques, taking 
 5. Time duration. Analyzing trip duration predictions in conjunction with route data can identify the fastest or most efficient routes. This can assist in developing recommendations for users, potentially improving overall user satisfaction and reducing travel times.
 
 
-## 1. User Classification with Random Forest 
+## 1. User Classification with SPARK Loading and Random Forest Regressor
 
 For the model we used demographic data (gender and age) to predict user categories and usage patterns like is a younger user more likely to use a bike at night?)
 
