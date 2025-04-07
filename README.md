@@ -50,6 +50,8 @@ In this section, we will use four different machine learning techniques, taking 
 3. Bicycle Demand Prediction: Analyzes pickup and drop-off patterns to predict which stations will require the most bikes at certain times of the day.
 
 4. User Segmentation: Groups users into different segments based on their usage behavior, which can help with marketing campaigns or service improvements.
+   
+5. Time duration. Analyzing trip duration predictions in conjunction with route data can identify the fastest or most efficient routes. This can assist in developing recommendations for users, potentially improving overall user satisfaction and reducing travel times.
 
 
 ## 1. User Classification with Random Forest 
@@ -113,30 +115,11 @@ And the resulting graphs for the Pickup and Arrival Stations were the following:
 ![Screenshot 2025-04-06 at 2 46 00 p m](https://github.com/user-attachments/assets/4718b83a-11f1-4c42-baea-b2260aee80d7)
 
 
-# CONCLUSSIONS
 
-Some of the results may be significant for these use cases:
-Identification of high-demand areas. Areas with high concentrations of usage can be identified for the location of new stations or the adjustment of the size of current ones.
-
-Bicycle redistribution. Understanding which stations tend to be used together or share usage patterns can help with transport logistics and bicycle redistribution.
-Targeted marketing: Understanding the demographics and patterns of users who use stations in a cluster can inform more effective marketing campaigns.
-
-
-
-# User Classification Linear Regression and Random Forest Models
-
-These are some of the preliminary results
-
-## Random Forest Model
-
-![Screenshot 2025-03-30 at 9 38 50 p m](https://github.com/user-attachments/assets/92306cca-5a52-4d38-a7e6-11234007f16c)
-
-## Gradient Boosting Classifier
-![Screenshot 2025-03-30 at 9 39 12 p m](https://github.com/user-attachments/assets/3eb9ae15-de36-40ec-a92e-0d3c1b2f493c)
 
 ## 4. User Segmentation
 
-5. ## Time duration
+## 5. Time duration
 
 For this stage we used 6 different models in order to be able to compare results between them
 
@@ -147,10 +130,24 @@ For this stage we used 6 different models in order to be able to compare results
 5. Random Forest Regressor
 6. LGBM Regressor
 
+Some of the results are displayed on the following images_
+
+
 <img width="1103" alt="Screenshot 2025-04-05 at 11 16 50 p m" src="https://github.com/user-attachments/assets/09a6ab52-fad0-4ff9-a941-01937bd867a9" />
 
 
 <img width="1124" alt="Screenshot 2025-04-05 at 11 20 23 p m" src="https://github.com/user-attachments/assets/60f0714f-b771-4b0d-8358-4cc22afe7d67" />
+
+
+# CONCLUSSIONS
+
+Some of the results may be significant for these use cases:
+
+Identification of high-demand areas. Areas with high concentrations of usage can be identified for the location of new stations or the adjustment of the size of current ones.
+
+Bicycle redistribution. Understanding which stations tend to be used together or share usage patterns can help with transport logistics and bicycle redistribution.
+
+Targeted marketing: Understanding the demographics and patterns of users who use stations in a cluster can inform more effective marketing campaigns.
 
 
 
