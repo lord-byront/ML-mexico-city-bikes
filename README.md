@@ -58,7 +58,7 @@ In this section, we will use four different machine learning techniques, taking 
 
 For the model we used demographic data (gender and age) to predict user categories and usage patterns like is a younger user more likely to use a bike at night?)
 
-You can find the code to run this model on the folder Codes and the name of the file is **Spark_RForest_Gcollab**
+You can find the code to run this model on the folder Codes > ML_Codes  and the name of the file is **1_Spark_RForest_Gcolla**
 
 In order to run this file you need to use the following csv that you download from this AWS Bucket:
 https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/2025_02.csv
@@ -75,6 +75,8 @@ For this model we obtained a 96% accuracy
 ## 2. Route Analysis with K Means Cluster model
 
 For this model we used the Kmeans method 
+
+You can find the code to run this model on the folder Codes > ML_Codes  and the name of the file is **2_Kmeans_RouteAn**
 
 So following the same steps we first cleaned, normalized, and standardized prior to modeling
 
@@ -103,6 +105,8 @@ In this model the accuracy we got wasn't as good as on the 1st model.
 
 For this model we used the Random Forest Regressor Method
 
+You can find the code to run this model on the folder Codes > ML_Codes  and the name of the file is **3_RandomBycicleDemand**
+
 So following the same steps we first cleaned, normalized, and standardized prior to modeling
 
 In this case we got the following accuracy for the model:
@@ -121,6 +125,8 @@ And the resulting graphs for the Pickup and Arrival Stations were the following:
 For this model we also used the Kmeans method 
 
 As in the priors methods we first cleaned, normalized, and standardized prior to modeling
+
+You can find the code to run this model on the folder Codes > ML_Codes  and the name of the file is **4_Kmeans_Usegment**
 
 Here are some of the visual results we obtained
 
@@ -145,6 +151,7 @@ For this stage we used 6 different models in order to be able to compare results
 
 Some of the results are displayed on the following images_
 
+You can find the code to run this model on the folder Codes > ML_Codes  and the name of the file is **5_1Ml_bike_bench** and **5_0Train_test_split** 
 
 <img width="1103" alt="Screenshot 2025-04-05 at 11 16 50 p m" src="https://github.com/user-attachments/assets/09a6ab52-fad0-4ff9-a941-01937bd867a9" />
 
