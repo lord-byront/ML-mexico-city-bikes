@@ -58,7 +58,8 @@ In this section, we will use four different machine learning techniques, taking 
 
 For the model we used demographic data (gender and age) to predict user categories and usage patterns like is a younger user more likely to use a bike at night?)
 
-You can find the code to run this model on the folder Codes and the name of the file is Spark_RForest_Gcollab
+You can find the code to run this model on the folder Codes and the name of the file is **Spark_RForest_Gcollab**
+
 In order to run this file you need to use the following csv that you download from this AWS Bucket:
 https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/2025_02.csv
 
@@ -170,5 +171,12 @@ Understanding the demographics and patterns of users who use stations in a clust
 
 
 ### APPENDIX, CSV DATA JOINS 
+
+The main csvs that were used on the data are located in the folder
+
+The csvs that are not located in this repository due to size are these 2 files:
+
+2025_02.csv you can download the file from this AWS Bucket: https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/2025_02.csv
+archivo_ordenado.csv you can download the file from this AWS Bucket: https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/archivo_ordenado.csv
 
 
