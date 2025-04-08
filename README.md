@@ -172,11 +172,16 @@ Understanding the demographics and patterns of users who use stations in a clust
 
 ### APPENDIX, CSV DATA JOINS 
 
-The main csvs that were used on the data are located in the folder
+The main csvs that were used on the data are located in the folder Data_Cleaning located on the Codes folder on this repository
 
 The csvs that are not located in this repository due to size are these 2 files:
 
 2025_02.csv you can download the file from this AWS Bucket: https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/2025_02.csv
+
 archivo_ordenado.csv you can download the file from this AWS Bucket: https://mybucketbootcampjlg.s3.us-east-2.amazonaws.com/archivo_ordenado.csv
+
+For the csv of the different months, depending on how many you want to use for the model you can get them from the open data site of the ecobici program on the following URL: https://ecobici.cdmx.gob.mx/datos-abiertos/
+
+
 
 
